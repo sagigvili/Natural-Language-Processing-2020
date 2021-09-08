@@ -1,0 +1,25 @@
+The C programming language is a computer programming language that was developed to do system programming for the operating system UNIX and is an imperative programming language .
+C was developed in the early 1970s by Ken Thompson and Dennis Ritchie at Bell Labs .
+It is a procedural language , which means that people can write their programs as a series of step-by-step instructions .
+C is a compiled language .
+Because the ideas behind C are kept close to the design of the computer , the compiler ( program builder ) can generate machine code/native code for the computer .
+Programs built in machine code are very fast .
+This makes C a good language for writing operating systems .
+Many operating systems , including Linux and UNIX , are programmed using this language .
+The language itself has very few keywords , and most things are done using libraries , which are collections of code for them to be reused .
+C is available for many different types of computers .
+This is why C is called a portable language .
+A program that is written in C and that respects certain limitations can be compiled for many different platforms .
+The syntax of C has also influenced many other programming languages , such as , C , and Java , and many more programming languages we use nowadays .
+== Example code ==
+Here is an example of a program written in When built and run it will show Hello world
+, followed by a new line on the computer screen .
+include stdio.h gets the standard input/output tools ready for the program to use .
+This allows text to be displayed ( output ) .
+int main is called the main function , and it is where the first code starts being run in a C program .
+printf ( Hello world ) ; is what displays text , in this case Hello world
+with a new line at the end .
+return 0 ; tells the computer that the program finished and did not run into problems .
+== Related pages ==
+C dynamic memory allocation C Sharp ( programming language ) Objective-C == Other websites ==
+Introduction to C programming Coding Programmer Page C Library Reference and Examples ( English ) C ( programming language ) -Citizendium )

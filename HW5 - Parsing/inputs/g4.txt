@@ -1,0 +1,23 @@
+S -> NP VP
+NP -> D N
+NP -> N
+NP -> NP PP
+VP -> VP NP
+VP -> VP PP
+VP -> V
+PP -> P NP
+P -> in
+P -> on
+P -> with
+N -> man
+N -> cat
+N -> bird
+N -> telescope
+N -> mat
+D -> a
+D -> the
+V -> saw
+V -> smiled
+V -> loved
+V -> gave
+V -> sat

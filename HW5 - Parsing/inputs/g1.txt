@@ -1,0 +1,7 @@
+NP -> D N
+NP -> NP PP
+PP -> P NP
+D -> the
+P -> in
+N -> cat
+N -> hat

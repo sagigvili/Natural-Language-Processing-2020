@@ -1,0 +1,67 @@
+Python is an open source programming language that was made to be easy-to-read and powerful .
+A Dutch programmer named Guido van Rossum made Python in 1991 .
+He named it after the television show Monty Python 's Flying Circus .
+Many Python examples and tutorials include jokes from the show .
+Python is an interpreted language .
+Interpreted languages do not need to be compiled to run .
+A program called an interpreter runs Python code on almost any kind of computer .
+This means that a programmer can change the code and quickly see the results .
+This also means Python is slower than a compiled language like C , because it is not running machine code directly .
+Python is a good programming language for beginners .
+It is a high-level language , which means a programmer can focus on what to do instead of how to do it .
+Writing programs in Python takes less time than in some other languages .
+Python drew inspiration from other programming languages like C , , Java , Perl , and Lisp .
+Python 's developers try to avoid changing the language to make it better until they have a lot of things to change .
+Also , they try not to make small repairs , called patches , to unimportant parts of the CPython reference implementation that would make it faster .
+When speed is important , a Python programmer can move some of the work of the program to other parts written in programming languages like C or PyPy , a just-in-time compiler .
+It translates a Python script into C and makes direct C-level API calls into the Python interpreter .
+Keeping Python fun to use is an important goal of Python s developers .
+It reflects in the language 's name , a tribute to the British comedy group Monty Python .
+On occasions , they are playful approaches to tutorials and reference materials , such as referring to spam and eggs instead of the standard foo and bar .
+== Python use ==
+Python is used by hundreds of thousands of programmers and is used in many places .
+Sometimes only Python code is used for a program , but most of the time it is used to do simple jobs while another programming language is used to do more complicated tasks .
+Its standard library is made up of many functions that come with Python when it is installed .
+On the Internet there are many other libraries available that make it possible for the Python language to do more things .
+These libraries make it a powerful language ; it can do many different things .
+Some things that Python is often used for are : Web development Scientific programmingData science Machine learning Numerical analysis Statistics Desktop GUIs applications Network programming Game programming .
+Complex algorithms creation Automation scripts Machine Learning and Artificial Intelligence Audio and Video Applications == Syntax ==
+Python has a very easy-to-read syntax .
+Some of Python 's syntax comes from C , because that is the language that Python was written in .
+But Python uses whitespace to delimit code : spaces or tabs are used to organize code into groups .
+This is different from In C , there is a semicolon at the end of each line and curly braces are used to group code .
+Using whitespace to delimit code makes Python a very easy-to-read language .
+=== Statements and control flow ===
+Python 's statements include : The assignment statement , or the = sign .
+In Python , the statement x = 2 means that the name x is bound to the integer 2 .
+Names can be rebound to many different types in Python , which is why Python is a dynamically typed language .
+The if statement , which runs a block of code if certain conditions are met , along with else and elif ( a contraction of else if from other programming languages ) .
+The elif statement runs a block of code if the previous conditions are not met , but the conditions for the elif statement are met .
+The else statement runs a block of code if none of the previous conditions are met .
+The for statement , which iterates over an iterable object such as a list and binds each element of that object to a variable to use in that block of code , which creates a for loop .
+The while statement , which runs a block of code as long as certain conditions are met , which creates a while loop .
+The def statement , which defines a function or method .
+The pass statement , which means do nothing .
+The class statement , which allows the user to create their own type of objects like what integers and strings are .
+The import statement , which imports Python files for use in the user 's code .
+The print statement , which outputs various things to the console .
+=== Expressions ===
+Python 's expressions include some that are similar to other programming languages and others that are not .
+Addition , subtraction , multiplication , and division , represented by , - .
+, and .
+Exponents , represented by .
+To compare two values , Python uses == .
+Python uses the words and , or , and not for its boolean expressions .
+== Example ==
+This is a small example of a Python program .
+It shows Hello World
+on the screen .
+Python also does something called dynamic variable assignment .
+This means that when a number or word is made in a program , the user does not have to say what type it is .
+This makes it easier to reuse variable names , making fast changes simpler .
+An example of this is shown below .
+This code will make both a number and a word , and show them both , using only one variable .
+In a statically typed language like C , a programmer would have to say whether x was a number or a word before C would let the programmer set up x , and after that , C would not allow its type to change from a number to a word .
+== References ==
+== Other websites ==
+Official website Python tutorial

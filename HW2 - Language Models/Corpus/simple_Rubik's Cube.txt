@@ -1,0 +1,35 @@
+Rubik Cube is a puzzle cube , and the world biggest selling toy of all time with over ( 300 million ) sold .
+It was invented in 1974 by Hungarian sculptor and professor of architecture Ernő Rubik .
+In a classic Rubik Cube , each of the six faces is covered by nine stickers , each of one of six solid colours : white , red , blue , orange , green , and yellow .
+In currently sold models , white is opposite yellow , blue is opposite green , orange is opposite red , and some might replace blue with black or purple .
+== Types of Cubes ==
+The standard Rubik Cube is 3x3x3 .
+3 blocks across , 3 blocks down , and 3 blocks deep .
+Cubes can be made in 2x2 , 4x4 , or larger versions .
+As of 2017 the largest cube is 33 x 33 , which is also 3d are cubes with uneven sides .
+Some options are the 3x2x2 or 3x5 or 4x3 .
+Some cuboids can shapeshift or jumble .
+That means the cube goes out of its original shape .
+To solve a shapeshifting cube it must return to the original shape before it is considered solved .
+Gear cubes include gears which cause both sides of a cube to turn .
+Other versions include the Megaminx , Pyraminx , Rubik clock , Mirror Cube , and Square 1 .
+== Structure ==
+A Rubik Cube is a cube split into a number of smaller cubes with different colored faces attached to a rotating piece of metal in the middle .
+Total , there are 26 small cubes .
+The Rubik Cube have six sides with 9 little cubes attached to it and each side has one color : red , yellow , blue , orange , white and green are the most common colors .
+The cubes can be rotated and twisted along rows and faces .
+The aim of the puzzle is to make each face of the cube have the same color .
+Solving a Rubik Cube requires logic and thinking .
+There are many different ways to learn how to solve a Rubik cube .
+== Methods ==
+There are many methods that people use to solve a Rubik Cube .
+Today the most common one is called CFOP , also called Fridrich Method , named after the popularizer Jessica Fridrich .
+In this method first the white cross is solved , then F2L ( First 2 Layers ) followed by OLL ( Orientation of Last Layer ) and PLL ( Permutation Of Last Layer ) .
+Other methods include Petrus , ZZ , Roux , Keyhole and others .
+== Records ==
+The record for one Rubik Cube solve is seconds by Yusheng Du at the Wuhu Open 2018 ( in China ) .
+Feliks Zemdegs holds the record for the average of 5 , which is seconds , set at Odd Day in Sydney 2019 .
+== Related pages ==
+Pocket Cube Rubik Revenge Professor Cube == References ==
+== Other websites ==
+Rubik cube World Record by Patrick Ponce The Rubik Cube solver application The Rubik Cube solution guide The Rubik Cube wiki Simple solving manual The Rubik Cube official website

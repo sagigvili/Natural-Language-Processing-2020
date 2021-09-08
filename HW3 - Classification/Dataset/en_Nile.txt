@@ -1,0 +1,219 @@
+The mile is an English unit of length of linear measure equal to feet , or yards , and standardised as exactly metres by international agreement in 1959 .
+With qualifiers , mile is also used to describe or translate a wide range of units derived from or roughly equivalent to the Roman mile , such as the nautical mile ( now km exactly ) , the Italian mile ( roughly km ) , and the Chinese mile ( now 500 m exactly ) .
+The Romans divided their mile into Roman feet but the greater importance of furlongs in England meant that the statute mile was made equivalent to 8 furlongs or feet in 1593 .
+This form of the mile then spread to the nations some of which continue to employ the mile .
+The US Geological Survey now employs the metre for official purposes but legacy data from its 1927 geodetic datum has meant that a separate US survey mile ( km ) continues to see some use .
+While most countries replaced the mile with the kilometre when switching to the International System of Units , the international mile continues to be used in some countries , such as Liberia , the United Kingdom , the United States , and a number of countries with fewer than one million inhabitants , most of which are UK or US territories , or have close historical ties with the UK or US .
+The mile was usually abbreviated in the past in the USA but is now written as mi to avoid confusion with the SI metre .
+However , derived units , such as miles per hour or miles per gallon , continue to be abbreviated as mph and mpg , respectively .
+In the United Kingdom , road signs still abbreviate mile to == Name ==
+The modern English word mile derives from Middle English myle and Old English mīl , which was cognate with all other Germanic terms for miles .
+These derived from the nominal ellipsis form of mīlle passus ( mile ) or mīlia passuum ( miles ) , the Roman mile of one thousand present international mile is usually what is understood by the unqualified term mile .
+When this distance needs to be distinguished from the nautical mile , the international mile may also be described as a land mile or statute mile .
+In British English , the statute mile may refer to the present international miles or to any other form of English mile since the 1593 Act of Parliament , which set it as a distance of yards .
+Under American law , however , the statute mile refers to the US survey mile .
+Foreign and historical units translated into English as miles usually employ a qualifier to describe the kind of mile being used but this may be omitted if it is obvious from the context , such as a discussion of the Antonine Itinerary describing its distances in terms of miles rather than Roman miles .
+The mile has been variously and without a trailing m , M , ml , and mi .
+The American National Institute of Standards and Technology now uses and recommends mi to avoid confusion with the SI metre ( m ) and millilitre ( ml ) .
+However , derived units such as miles per hour or miles per gallon continue to be abbreviated as mph and mpg rather than and .
+In the United Kingdom road signs use m as the abbreviation for mile though height and width restrictions also use m as the abbreviation for the metre , which may be displayed alongside feet and inches .
+The BBC style holds that There is no acceptable abbreviation for and so it should be spelled out when used in describing areas .
+== Historical miles ==
+=== Roman mile ===
+The Roman mile ( mille passus , lit .
+thousand paces ; abbr .
+; also milia passuum and mille ) consisted of a thousand paces as measured by every other in the total distance of the left foot hitting the ground times .
+The ancient Romans , marching their armies through uncharted territory , would often push a carved stick in the ground after each paces .
+and harshly driven Roman legionaries in good weather thus created longer miles .
+The distance was indirectly standardised by Agrippa establishment of a standard Roman foot ( Agrippa own ) in 29 BC , and the definition of a pace as 5 feet .
+An Imperial Roman mile thus denoted Roman feet .
+Surveyors and specialised equipment such as the decempeda and dioptra then spread its modern times , Agrippa Imperial Roman mile was empirically estimated to have been about yards ( m ) in Hellenic areas of the Empire , the Roman mile ( Greek : μίλιον , mílion ) was used beside the native Greek units as equivalent to 8 stadia of 600 Greek feet .
+The mílion continued to be used as a Byzantine unit and was also used as the name of the zero mile marker for the Byzantine Empire , the Milion , located at the head of the Mese near Hagia Sophia .
+The Roman mile also spread throughout Europe , with its local variations giving rise to the different units arising from the Roman mile is the milestone .
+All roads radiated out from the Roman Forum throughout the Empire ( Roman ) miles of roads .
+At every mile was placed a shaped stone .
+Originally these were stone obelisks made from granite , marble , or whatever local stone was available .
+On these was carved a Roman numeral , indicating the number of miles from the centre of Rome the Forum .
+Hence , one always knew how far one was from Rome .
+=== Italian mile ===
+The Italian mile ( miglio , pl .
+miglia ) was traditionally considered a direct continuation of the Roman mile , equal to 1000 paces , although its actual value over time or between regions could vary greatly .
+It was often used in international contexts from the Middle Ages into the 17th century and is thus also known as the geographical mile , although the geographical mile is now a separate standard unit .
+=== Arabic mile ===
+The Arabic mile ( الميل , ) was not the common Arabic unit of length ; instead , Arabs and Persians traditionally used the longer parasang or Arabic league .
+The Arabic mile was , however , used by medieval geographers and scientists and constituted a kind of precursor to the nautical or geographical mile .
+It extended the Roman mile to fit an astronomical approximation of 1 arcminute of latitude measured directly along a meridian .
+Although the precise value of the approximation remains disputed , it was somewhere between and km .
+=== British and Irish miles ===
+English mile The old English mile of the medieval and early modern periods varied but seems to have measured about international miles ( km ) .
+The English long continued the Roman computations of the mile as 5000 feet , 1000 paces , or 8 longer divisions , which they equated with their furrow length or origins of English units are extremely vague and uncertain , but seem to have been a combination of the Roman system with native British and Germanic systems both derived from multiples of the barleycorn .
+Probably by the reign of Edgar in the 10th century , the nominal prototype physical standard of English length was an iron bar ( a yardstick ) held by the king at Winchester ; the foot was then of its length .
+Henry I was said to have made a new standard in 1101 based on his own arm .
+Following the issuance of Magna Carta , the barons of Parliament directed John and his son to keep the king standard measure ( Mensura Domini Regis ) and weight at the Exchequer , which thereafter verified local standards until its abolition in the 19th century .
+New brass standards are known to have been constructed under Henry VII and Elizabeth 1500 Customs of London recorded a mile shorter than previous ones , coming to international miles or km .
+The English statute mile was established by a Weights and Measures Act of Parliament in 1593 during the reign of Queen Elizabeth I .
+The act on the Composition of Yards and Perches had shortened the length of the foot and its associated measures , causing the two methods of determining the mile to diverge .
+Owing to the importance of the surveyor rod in deeds and surveying undertaken under Henry VIII , decreasing the length of the rod by would have amounted to a significant tax increase .
+Parliament instead opted to maintain the mile of 8 furlongs ( which were derived from the rod ) and to increase the number of feet per mile from the old Roman value .
+The applicable passage of the statute reads : A Mile shall contain eight Furlongs , every Furlong forty Poles , and every Pole shall contain sixteen Foot and an half .
+The statute mile therefore contained feet or yards .
+The distance was not uniformly adopted .
+Robert Morden had multiple scales on his maps which included continuing local values : his map of Hampshire , for example , bore two different miles with a ratio of 1 : and his map of Dorset had three scales with a ratio of 1 : : .
+In both cases , the traditional local units remained longer than the statute mile .
+Welsh mile The Welsh mile ( milltir or milldir ) was 3 miles and 1470 yards long ( km ) .
+It comprised 9000 paces ( cam ) , each of 3 Welsh feet ( troedfedd ) of 9 inches ( modfeddi ) .
+( The Welsh inch is usually reckoned as equivalent to the English inch . )
+Along with other Welsh units , it was said to have been codified under Dyfnwal the Bald and Silent and retained unchanged by Hywel the Good .
+Along with other Welsh units , it was discontinued following the conquest of Wales by the English under Edward I in the 13th century .
+Scots mile The Scots mile was longer than the English mile , as mentioned by Robert Burns in the first verse of his poem Tam o Shanter .
+It comprised 8 ( Scots ) furlongs divided into 320 falls or faws ( Scots rods ) .
+It varied from place to place but the most accepted equivalencies are Imperial yards ( statute miles or km ) .
+It was legally abolished three times : first by a 1685 act of the Scottish Parliament , again by the 1707 Treaty of Union with England , and finally by the Weights and Measures Act 1824 .
+It had continued in use as a customary unit through the 18th century but had become obsolete by its final abolition .
+Irish mile The Irish mile ( míle or míle Gaelach ) measured 2240 yards : approximately statute miles or kilometres .
+It was used in Ireland from the 16th century plantations until the 19th century , with residual use into the 20th century .
+The units were based on English measure but used a linear perch measuring 7 yards ( m ) as opposed to the English rod of yards ( m ) .
+=== Other historical miles ===
+The Dutch mile ( mijl ) has had different definitions throughout history .
+One of the older definitions was 5600 ells .
+But the length of an ell was not standardised , so that the length of a mile could range between 3280 m and 4280 The Dutch mile also has had historical definitions of one hour walking ( uur gaans ) , which meant around 5 km , or Amsterdam or Rhineland feet ( respectively 5660 m or 6280 m ) .
+Besides the common Dutch mile , there is also the geographical mile .
+15 geographical Dutch miles equal one degree of longitude on the equator .
+Its value changed as the circumference of the earth was estimated to a better precision .
+But at the time of usage , it was around 7157 The metric system was introduced in the Netherlands in 1816 , and the metric mile became a synonym for the kilometre , being exactly 1000 Since 1870 , the term mile was replaced by the equivalent kilometre .
+Today , the word mile is no longer used , apart from some old proverbs .
+The German mile ( Meile ) was German feet .
+The standardised Austrian mile used in southern Germany and the Austrian Empire was km ; the Prussian mile used in northern Germany was km .
+Following its standardisation by Ole Rømer in the late 17th century , the Danish mile ( mil ) was precisely equal to the Prussian mile and likewise divided into feet .
+These were sometimes treated as equivalent to km .
+Earlier values had varied : the Sjællandske miil , for instance , had been km .
+The Germans also used a longer version of the geographical mile .
+The Saxon Post mile ( kursächsische Postmeile or Polizeimeile , introduced on occasion of a survey of the Saxon roads in the 1700s , corresponded to 2000 Dresden rods , equivalent to kilometres .
+The Hungarian mile ( mérföld or magyar mérföld ) varied from km to km before being standardised as km .
+The Portuguese mile ( milha ) used in Portugal and Brazil was km prior to metrication .
+The Russian mile ( миля or русская миля , russkaya milya ) was km , divided into 7 versts .
+The Croatian mile ( hrvatska milja ) , first devised by the Jesuit Stjepan Glavač on a 1673 map , is the length of an arc of the equator subtended by or km exactly .
+The previous Croatian mile , now known as the ban mile ( banska milja ) , had been the Austrian mile given above .
+The Ottoman mile was m ( mi ) , which was equal to Ottoman foot .
+After 1933 , the Ottoman mile was replaced with the modern Turkish mile ( m ) .
+== International mile ==
+The international mile is precisely equal to km ( or km as a fraction ) .
+It was established as part of the 1959 international yard and pound agreement reached by the United States , the United Kingdom , Canada , Australia , New Zealand , and Union of South Africa , which resolved small but measurable differences that had arisen from separate physical standards each country had maintained for the yard .
+As with the earlier statute mile , it continues to comprise yards or feet .
+The old Imperial value of the yard was used in converting measurements to metric values in India in a 1976 Act of the Indian Parliament .
+However , the current National Topographic Database of the Survey of India is based on the metric datum , which is also used by the Global Positioning System .
+The difference from the previous standards was 2 ppm , or about millimetres ( inch ) per mile .
+The standard was slightly longer and the old Imperial standards had been slightly shorter than the international mile .
+When the international mile was introduced in countries , the basic geodetic datum in America was the North American Datum of 1927 ( NAD27 ) .
+This had been constructed by triangulation based on the definition of the foot in the Mendenhall Order of 1893 , with 1 foot = metres and the definition was retained for data derived from NAD27 , but renamed the survey foot to distinguish it from the international exact length of the land mile varied slightly among countries until the international yard and pound agreement in 1959 established the yard as exactly metres , giving a mile of exactly metres .
+The adopted this international mile for most purposes , but retained the mile for some data , terming it the survey mile .
+In the United States , statute mile normally refers to the survey mile , about mm ( inch ) longer than the international mile ( the international mile is exactly less than the survey mile ) .
+While most countries abandoned the mile when switching to the metric system , the international mile continues to be used in some countries , such as Liberia , Myanmar , the United Kingdom and the United States .
+It is also used in a number of territories with less than a million inhabitants , most of which are or territories , or have close historical ties with the or : American Samoa , Bahamas , Belize , British Virgin Islands , Cayman Islands , Dominica , Falkland Islands , Grenada , Guam , The Mariana Islands , Samoa , Lucia , Vincent The Grenadines , Helena , Kitts Nevis , the Turks Caicos Islands , and the Virgin Islands .
+The mile is even encountered in Canada , though this is predominantly in rail transport and horse racing , as the roadways have been metricated since 1977 .
+The Republic of Ireland replaced miles with kilometres , and speeds in miles per hour with kilometres per hour , gradually .
+The process was completed in 2005 .
+== survey mile ==
+The survey mile is survey feet , or about metres .
+In the United States , the term statute mile formally refers to the survey mile , but for most purposes , the difference between the survey mile and the international mile is international mile is survey statute mile can be used for either .
+But in some cases , such as in the State Plane Coordinate Systems ( SPCSs ) , which can stretch over hundreds of miles , the accumulated difference can be significant , so it is important to note that the reference is to the survey mile .
+The United States redefined its yard in 1893 , and this resulted in and Imperial measures of distance having very slightly different lengths .
+The North American Datum of 1983 ( NAD83 ) , which replaced the NAD27 , is defined in metres .
+State Plane Coordinate Systems were then updated , but the National Geodetic Survey left individual states to decide which ( if any ) definition of the foot they would use .
+All State Plane Coordinate Systems are defined in metres , and 42 of the 50 states only use the State Plane Coordinate Systems .
+However , eight states also have State Plane Coordinate Systems defined in feet , seven of them in Survey feet and one in international legislation in the is important for determining which conversion factor from the metric datum is to be used for land surveying and real estate transactions , even though the difference ( 2 ppm ) is hardly significant , given the precision of normal surveying measurements over short distances ( usually much less than a mile ) .
+states have legislated that surveying measures be based on the survey foot , eight have legislated that they be based on the international foot , and eighteen have not specified which conversion factor to October 2019 , National Geodetic Survey and National Institute of Standards and Technology announced their joint intent to retire the survey foot and survey mile , as permitted by their 1959 decision , with effect from the end of 2022 .
+== Nautical mile ==
+The nautical mile was originally defined as one minute of arc along a meridian of the Earth .
+Navigators use dividers to step off the distance between two points on the navigational chart , then place the open dividers against the scale at the edge of the chart , and read off the distance in nautical miles .
+The Earth is not perfectly spherical but an oblate spheroid , so the length of a minute of latitude increases by 1 from the equator to the poles .
+Using the WGS84 ellipsoid , the commonly accepted Earth model for many purposes today , one minute of latitude at the WGS84 equator is feet and at the poles is feet .
+The average is about feet ( about metres or statute miles ) .
+In the United States , the nautical mile was defined in the 19th century as feet ( m ) , whereas in the United Kingdom , the Admiralty nautical mile was defined as feet ( m ) and was about one minute of latitude in the latitudes of the south of the UK .
+Other nations had different definitions of the nautical mile , but it is now internationally defined to be exactly metres ( feet ) .
+=== Related nautical units ===
+The nautical mile per hour is known as the knot .
+Nautical miles and knots are almost universally used for aeronautical and maritime navigation , because of their relationship with degrees and minutes of latitude and the convenience of using the latitude scale on a map for distance measuring .
+The data mile is used in subjects and is equal to feet ( kilometres ) .
+The radar mile is a unit of time ( in the same way that the light year is a unit of distance ) , equal to the time required for a radar pulse to travel a distance of two miles ( one mile each way ) .
+Thus , the radar statute mile is μs and the radar nautical mile is μs .
+== Geographical mile ==
+The geographical mile is based upon the length of a meridian of latitude .
+The German geographical mile ( geographische Meile ) was previously of latitude ( km ) .
+== Grid system ==
+Cities in the continental United States often have streets laid out by miles .
+Detroit , Indianapolis , Chicago , Phoenix , Philadelphia , Las Vegas , Los Angeles , and Miami , are several examples .
+Typically the largest streets are about a mile apart , with others at smaller intervals .
+In the Manhattan borough of New York City streets are close to 20 per mile , while the major numbered avenues are about six per mile .
+( Centerline to centerline , 42nd Street to 22nd Street is supposed to be 5250 feet while 42nd Street to 62nd Street is supposed to be 5276 ft 8 in . )
+== Metric mile ==
+The informal term metric mile is used in some countries , in sports such as track and field athletics and speed skating , to denote a distance of metres ( miles ) .
+The 1500 meters is the premier middle distance running event in Olympic sports .
+In United States competition , the term is sometimes used for a race of metres ( miles ) .
+== Scandinavian mile ==
+The Scandinavian mile ( mil ) remains in common use in Norway and Sweden , where it has meant precisely 10 km since metrication in 1889 .
+It is used in informal situations and in measurements of fuel consumption , which are often given as litres per mil .
+In formal situations ( such as official road signs ) and where confusion may occur with international miles , it is avoided in favour of kilometres .
+The Swedish mile was standardised as Swedish feet or km in 1649 ; before that it varied by province from about 6 to metrication , the Norwegian mile was km .
+The traditional Finnish peninkulma was translated as mil in Swedish and also set equal to 10 km during metrication in 1887 , but is much less commonly used .
+== Comparison table ==
+A comparison of the different lengths for a mile , in different countries and at different times in history , is given in the table below .
+Leagues are also included in this list because , in terms of length , they fall in between the short West European miles and the long North , Central and Eastern European miles .
+Similar units : m verst , see also Obsolete Russian units of measurement == Idioms ==
+Even in countries that have moved from the Imperial to the metric system ( for example , Australia , Canada , and New Zealand ) , the mile is still used in a variety of idioms .
+These include : A country mile is used colloquially to denote a very long distance .
+A miss is as good as a mile ( failure by a narrow margin is no better than any other failure ) Give him an inch and he take a mile a corruption of Give him an inch and he take an ell ( the person in question will become greedy if shown generosity ) Missed by a mile ( missed by a wide margin ) Go a mile a minute ( move very quickly ) Talk a mile a minute ( speak at a rapid rate ) To go the extra mile ( to put in extra effort ) Miles away ( lost in thought , or daydreaming ) Milestone ( an event indicating significant progress ) == See also ==
+== Notes ==
+== References ==
+=== Citations ===
+=== Bibliography ===
+Adams , Cecil ( 1990 ) , What the origin of miles and yards
+, The Straight Dope , Chicago , retrieved 6 April 2015 .
+The American Heritage Dictionary of the English Language ( 4 ed .
+) , Boston : Houghton Mifflin , 2006 [ Originally published 2001 ] , ISBN .
+Andrews , .
+( 15 September 2003 ) , Sir Richard Bingham and the Mapping of Western Ireland ( PDF ) , Proceedings of the Royal Irish Academy , Vol .
+103C , No .
+3 , Dublin : Royal Irish Academy .
+Astin , .
+; et al .
+( 25 June 1959 ) , Doc .
+: Refinement of values for the yard and the pound ( PDF ) , Washington , : National Bureau of Standards .
+Barbrow , Louis ; et al .
+( 1976 ) , Weights and Measures Standards of the United Brief History ( PDF ) , National Institute of Standards and Technology , .
+Bigg , .
+; et al .
+( 1964 ) , The United Kingdom Standards of the Yard in Terms of the Metre , British Journal of Applied Physics , Vol .
+15 , No .
+3 , pp .
+, 15 291B , .
+Burke , James ( 1978 ) , Connections , Little , Brown , , ISBN .
+Butcher , Tina , ed .
+( 2014 ) , Appendix C , NIST Handbook 44 : Specifications , Tolerances , and Other Technical Requirements for Weighing and Measuring Devices .
+Klein , Herbert Arthur ( 1988 ) [ Originally published 1974 ] , The Science of Measurement : A Historical Survey , New York : Dover Publications ( Previously published by Simon Schuster as The World of Measurements : Masterpieces , Mysteries and Muddles of Metrology ) .
+Livy ( 1905 ) , Lease , Emory Bair ( ed .
+) , Ab Urbe Condita , Vol .
+I , XXI , XXII , New York : University Publishing .
+Maloney , Elbert ( 1978 ) , Dutton Navigation and Piloting ( 13 ed .
+) , Annapolis : Naval Institute Press .
+Morden , Robert ( 1695 ) , Dorsetshire , retrieved 17 August 2011 .
+History of Length Measurement , Factsheets , Teddington : National Physical Laboratory .
+Norgate , Martin ; et al .
+( 1998 ) , Morden Hampshire 1695 , Old Hampshire Mapped , Hampshire County Council , ISBN , retrieved 17 August 2011 .
+Owen , Aneurin , ed .
+( 1841 ) , The Venedotian Code , Ancient Laws and Institutes of Wales ; Comprising Laws Supposed to be Enacted by Howel the Good , Modified by Subsequent Regulations under the Native Princes prior to the Conquest by Edward the First : And Anomalous Laws , Consisting Principally of Institutions which by the Statute of Ruddlan were Admitted to Continue in Force : With an English Translation of the Welsh Text , to which are Added A few Latin Transcripts , Containing Digests of the Welsh Laws , Principally of the Dimetian Code , London : Commissioners on the Public Records of the Kingdom .
+( in Welsh ) ( in English ) Oxford English Dictionary , 3rd , Oxford : Oxford University Press , 2002 .
+Rowlett , Russ ( 2018 ) , How Many
+A Dictionary of Units of Measurement , Chapel Hill : University of North Carolina , retrieved 5 November 2019 .
+Shuttleworth , , Building Roman roads , Experiment Resources , archived from the original on 21 April 2011 , retrieved 2 May 2011 .
+Smith , William , ed .
+( 1875 ) , Dictionary of Greek and Roman Antiquities , London : John Murray .
+Soren , ; et al .
+( 1999 ) , A Roman villa and a late Roman infant cemetery : excavation at Poggio Gramignano , Lugnano in Teverina , Bibliotheca Archaeologica , Rome : di Bretschneider .
+Thompson , Ambler ; et al .
+( 2008 ) , Special Publication 811 : Guide for the Use of the International System of Units ( SI ) ( PDF ) , Gaithersburg : National Institute of Standards and Technology .
+Zupko , Ronald Edward ( 1977 ) , British weights measures : a history from antiquity to the seventeenth century , University of Wisconsin Press , ISBN , retrieved 26 November 2011 .
+Zupko , Ronald Edward ( 1981 ) , Italian Weights and Measures from the Middle Ages to the Nineteenth Century , Philadelphia : American Philosophical Society , ISBN .
+== Further reading ==
+NIST General Tables of Units of Measurement , United States National Institute of Standards and Technology , archived from the original on 10 December 2011 Tafel zur Vergleichung und Bestimmung der Wegemaasse , Naturhistorische und chemischtechnische Notizen nach den neuesten Erfahrungen zur Nutzanwendung für Gewerbe , Fabrikwesen und Landwirthschaft , Expedition der Medicinischen Centralzeitung , 1856 , pp .
+( Item notes : Original from Harvard University Digitized 9 January 2008 ) Smits , Jan ( 15 February 2013 ) [ 1996 ] , Mathematical data for bibliographic descriptions of cartographic materials and spatial data , Personal page on website ICA Commission on Map Projections , archived from the original on 12 February 2014 Wigglesworth Clarke , Frank ( 1875 ) , Weights , measures , and money , of all nations , 91

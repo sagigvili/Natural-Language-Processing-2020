@@ -1,0 +1,170 @@
+TomTom N.V. is a Dutch multinational developer and creator of location technology and consumer electronics .
+Founded in 1991 and headquartered in Amsterdam , TomTom released its first generation of satellite navigation devices to market in 2004 .
+As of 2019 the company has over 4,500 employees worldwide and operations in 29 countries throughout Europe , Asia-Pacific , and the Americas .
+== History ==
+The company was founded in 1991 .
+On 27 May 2005 , TomTom listed on the Amsterdam Stock Exchange , valuing the company at nearly million.In September 2005 TomTom acquired Datafactory AG , a telematics service provider based in Leipzig .
+Datafactory AG employed around 30 people and realized a turnover of approximately million in 2004 and a small net profit.In January 2006 , TomTom acquired the UK company Applied Generics , forming TomTom Traffic.In 2008 , TomTom acquired Tele Atlas , a digital map maker , for billion.On 11 June 2012 , at an event for Apple 's iOS 6 preview , TomTom was announced as the main mapping data provider for Apple 's revamped iOS 6 Maps app , replacing Google Maps.In 2014 , TomTom partnered with Volkswagen Group for joint research on Highly Automated Driving ( HAD ) systems.TomTom signed deals to provide their navigation devices to several carmakers including Volkswagen Group , Daimler , Toyota and others.In late 2015 , TomTom extended its deal with Apple and signed a new contract with Uber , in which Uber driver app uses TomTom maps and traffic data in 300 cities worldwide .
+In May 2018 , TomTom launched new portable navigation device the TomTom Go Camper to cater the requirements of caravan and motorhome users.In January 2018 the company faced criticism for announcing that it would no longer be providing map updates for some devices .
+It also said that lifetime meant the useful life of a device.In 2020 the company signed a deal with Chinese Huawei to use the maps in Huawei 's smartphones to replace the Google Maps .
+=== Product history ===
+Until 1996 , TomTom developed business-to-business applications such as meter reading and bar-code reading for handheld devices , such as Palm Pilot , Compaq iPaq and Psion Series 5 .
+Subsequently , the company moved its focus to PDA software for the consumer market .
+Early mapping software included EnRoute , Citymaps and Routeplanner.By 2001 , they released the first car satellite navigation software , the TomTom Navigator , shifting the company 's focus to GPS car navigation .
+In 2004 a built-in subscription-based traffic update service was added.The first all-in-one device personal navigation device , the TomTom Go was released in March 2004 , creating a new consumer electronics category .
+TomTom reports it has sold about 250,000 units of TomTom Go and this product represented 60 of the company 's revenue for 2014 .
+As of 2016 , the company had sold nearly 80 million navigation devices worldwide.In 2005 , the ability to download new voices was introduced .
+The ruggedized , water-resistant Rider navigation device was released for motorcycle users in 2006 .
+The Rider was the first portable satellite navigation device designed for motorcycles and scooters.Text-to-speech for road names was first introduced in 2006 , along with hands-free calling and traffic support .
+TomTom Home , software for managing and downloading content for TomTom on a PC , was first released at this time.TomTom partnered with Vodafone in 2007 to create a high definition traffic service , designed to deliver real-time traffic data to Vodafone users through their devices.New features introduced in 2008 included IQ Routes , which estimated journey times based on average recorded speeds , rather than speed limits , and Advanced Lane Guidance , an on-screen representation of the correct lane to take.In the autumn of 2008 devices were introduced with built-in GSM SIM cards , for connected features including HD Traffic , Google Local Search , real-time speed camera updates , and the facility to search for the cheapest fuel on route.In 2013 TomTom entered the GPS sports watch market with the launch of the TomTom Runner and TomTom Multi-Sport GPS .
+TomTom extended its range of GPS sports watches with the launch of the Runner Cardio GPS in 2014 with a built-in heart rate monitor.In 2015 , TomTom entered a new product category with the launch of its new action camera , the Bandit .
+It had a built-in media server , enabling users to share footage in a matter of minutes.TomTom launched a new sports watch in 2016 , the TomTom Spark , which in addition to GPS and a heart-rate monitor , included music on the wrist and a 24/7 activity tracker.In 2018 , TomTom became the primary supplier of data for Apple 's map app .
+== TomTom Group business structure ==
+=== Consumer ===
+TomTom 's Consumer business is focused on creating location-based products that aid customers in navigation .
+Their consumer activities are focused on the drive and sports categories ; products include PNDs , GPS sports watches and smartphone navigation applications .
+In late 2017 , the Consumer division accounted for about 45 of TomTom 's revenues .
+TomTom stopped making wearable devices and action cams in 2017 .
+=== Automotive and Enterprise ===
+TomTom 's automotive business provides modular components ( maps ) and traffic and navigation software to car manufacturers and tier 1 head-unit vendors .
+Each component can be integrated as a stand-alone product , or combined into the Connected Navigation System .
+TomTom 's licensing branch sells TomTom map , traffic and navigation software .
+It also offers cloud-based products and platforms that allow developers access to create location-enabled applications for businesses and governments .
+Licensing focuses on two types of customers : B2B2C , where TomTom 's products are incorporated in end-user applications such as smartphones and tablets , and on the internet B2B , serving professional users for location-based applications such as geographical information systems ( GIS ) providers , governmental bodies and traffic management institutionsIn late 2017 , the Automotive and Licensing division accounted for about 37 of TomTom 's revenues.On January 22 , 2019 , TomTom agreed to sell its fleet management business TomTom Telematics to Japan 's Bridgestone for million ( 1 billion ) .
+In October 2019 , Bridgestone rebranded TomTom Telematics as Webfleet Solutions .
+== Products and services ==
+TomTom as a company offers three types of products in different shapes and forms : maps , connected services and ( navigation ) software .
+TomTom Navigation devices ( PNDs ) and TomTom GO navigation apps are sold directly or indirectly to end-consumers .
+In-dashboard systems are released for the automotive market .
+The navigation devices and portable devices with installed software are referred to as units.TomTom partners with several car manufacturers and offers built-in navigation devices .
+=== Navigation ===
+TomTom units provide a flying interface with an oblique bird's-eye view of the road , as well as a direct-overhead map view .
+They use a GPS receiver to show the precise location and provide visual and spoken directions on how to drive to the specified destination .
+Some TomTom systems also integrate with mobile phones using Bluetooth , traffic congestion maps or to actually take calls and read SMS messages aloud .
+==== Navigation devices ====
+TomTom 's all-in-one GPS navigation devices come with a touch screen , speaker , USB port , internal Lithium ion battery .
+Most models have Bluetooth transceivers that allow connection to a smartphone , allows the device to be used as a speakerphone to make and receive handsfree calls .
+TomTom Go , Via and Start general purpose navigation devices .
+TomTom Camper Caravan RV these models have a map that is supplied with height and width restrictions , which allows vehicle size and weight data to be entered for the route planning .
+TomTom Truck designed for professional truck drivers and include truck-specific software and maps .
+TomTom Rider Portable water-resistant models for motorcycle and motorscooter users .
+They differ from other devices in that the Rider is partly shielded and has a 'glove-friendly ' screen and GUI .
+TomTom One and One XL The TomTom One is the base model for automobile navigation .
+The difference between the TomTom One XL and the TomTom One is the size of the touch screen ( 4.3 vs 3.5 in or 110 vs 89 mm ) .
+Neither model of the One contains the added functions included in the Go models , such as Bluetooth hands-free calling and MP3 Jukebox .
+However , the One is able to receive traffic and weather updates using the TomTom Plus service when paired via Bluetooth with a mobile phone with a DUN data service .
+The reduced software capability means less demand on the hardware , which allows the One to be sold at a significantly lower price than the Go .
+The XL is also available as a Live version with integrated Live Services .
+==== Navigation software ====
+TomTom Navigator a GPS navigation software product for personal digital assistants ( PDAs ) , Palm devices , Pocket PCs , and some smartphones .
+TomTom Navigator 6 replaced the earlier TomTom Mobile 5.2 .
+It can use GPS receivers built into the device or external ( e.g. , Bluetooth-connected ) receivers .
+Navigator 7 was the latest release of this software , released as a part of the software that came with the June 2008 HTC Touch Diamond .
+Frequently used functions can be added to the main screen of the program , and users can report map corrections and share them with other users .
+Navigator supports touch screens ; devices without touch screens use a cursor to input data .
+The software is available on SD card and DVD .
+It runs on a number of devices listed on the TomTom website , but will run successfully on many unlisted devices using the Windows Mobile operating system , discontinued in 2010 .
+The DVD version includes a DVD , printed 15-character product code , Quick Start Guide , Licensing Agreement , a poster with a picture diagram for setup procedure of DVD version and SD card version , and an advertisement for associated TomTom Plus services .
+The DVD contains installation software for TomTom Home , software for mobile devices , licenses , manuals , maps , and voices .
+The software for mobile devices includes CAB files for Palm , PPC , Symbian , and UIQ3 .
+TomTom for iOS GPS navigation software product for iOS devices , originally announced for the iPhone at the Apple WWDC Keynote speech in early June 2009 , and released internationally on 15 August 2009 in the Apple App Store , with various map packs for different regions .
+TomTom Vice President of Marketing Development gave information in an interview by Macworld in July 2009 .
+Currently the app works with iPhone ( all models ) , the iPod Touch ( all models ) and the iPad ( all models ) , however Apple dropped the support for the early models and latest versions of the TomTom iOS app might have issues on certain devices .
+There are two separate TomTom car kits available for certain Apple devices .
+The current maps available in each countries ' app stores varies according to language availability of the app itself , the country of the app store , and thus differing region group map packs are available .
+Turkey and Greece were not included in the larger Europe map pack ; this is related to the AppStore 's app size limitation of 2 GB .
+These maps are available separately .
+Iceland is not available in any map package sold by TomTom at the moment , but they are working on it ( and a few other countries too ) .
+Also most likely there will be a new iOS app available , based on the NavKit , which might cure the issue with the size limit ( also Apple increased the app size limit to 4 GB ) .
+TomTom Go Mobile , GPS navigation software for the Android operating system .
+It replaced the old app , which had similar features to the iOS app .
+In March 2015 , TomTom announced the new TomTom Go Mobile app for Android with a freemium subscription model for maps with the first 50 miles/75 kilometres per month being free , including all the maps that are available , TomTom Traffic and Speed Cameras .
+The previous app , which had promised free lifetime updates , is not available for purchase on Play Store anymore and its maps are not updated since October 2015 .
+TomTom claims their definition of lifetime map updates is the period of time that TomTom continues to support the app with updates .
+Previous customers of TomTom 's Android navigation app are offered a discount on the subscription in the new app for three years .
+There is no provision for users who want to keep using the old app under the conditions it was sold with lifetime map updates .
+TomTom Speed Cameras , a mobile software application released in 2015 free of charge.Navigation software for several mobile phones was discontinued after release 5.2 ; Navigator , which does not support all the phones that Mobile did , is the nearest equivalent .
+Mobile 5.2 can not use maps later than build 1223 ; this and earlier program versions are not compatible with all map versions , particularly other builds of version 6 .
+In September 2012 , Apple collaborated with TomTom to provide mapping data for its revamped iOS 6 updated Apple Maps app .
+The partnership was in part due to Apple 's decision to wean itself off the products of its competitor , Google .
+As of 2018 TomTom continues to provide data for Apple Maps .
+=== Support Applications ===
+TomTom Home ( stylized as TomTom HOME ) is a 32-bit PC application that allows synchronization/updates to be sent to the mobile device .
+TomTom Home version 2.0 and above is implemented on the XULRunner platform .
+With version 2.2 , TomTom Home added a content-sharing platform where users can download and upload content to personalize their device such as voices , start-up images , POI sets , etc .
+At the moment TomTom Home is on version 2.9 .
+Despite being based on the cross-platform XULRunner , TomTom Home lacks support for Linux .
+It is , for instance , impossible to update the maps in these devices by connecting them to another machine running Linux , even when using a common web browser like Firefox that normally allowed such an update under Microsoft Windows .
+However , the devices can still be read in a Linux OS as a disk drive .
+There is even software made by the community to manage some functions of the TomTom.The NAV3 and NAV4 range of models use MyDrive Connect .
+MyDrive Connect is compatible with 32bit and 64bit versions of Windows XP/Vista/7/8/8.1/10 preview and with most Mac OS X versions .
+The internal flash memory or the memory card content of the device can not be accessed through USB for security reasons ( modified applications would easily accept a map that was n't sold by TomTom ) .
+The device can update itself by getting files through the HTTP protocol over USB .
+The support app is nothing more than a proxy on the PC buffering the download .
+So far the security achieved using this mechanism has not been broken yet .
+Also , the usage of the non-FAT/FAT32 file system brought stability improvements in device operations .
+=== Traffic services ===
+A traffic monitoring service that uses multiple sources to provide traffic information .
+The service does this by combining data from : traditional sources : governmental/third-party data such as induction loops in the roads , cameras and traffic surveillance new sources : traffic flow of millions of anonymous mobile phone usersThe information is merged by TomTom and algorithms are used to improve the data and filter out anomalous readings .
+The system sends updates to all TomTom Traffic users every two minutes ( and the data the users receive is never older than 30 seconds ) .
+Users can receive the service through the built-in SIM , via a smartphone connection or on older devices via a standard phone connection .
+Re-routing can be set to be transparent to the user with the only sign that the route has been changed due to a traffic jam being a sound indication from the device and a changed ETA .
+The system was first launched in the Netherlands in 2007 and expanded to the United Kingdom , France , Germany and Switzerland in 2008 .
+By mid-2011 , TomTom Live services including TomTom Traffic were available in the United States , South Africa , New Zealand and seventeen European countries : Austria , Belgium , Denmark , Finland , France , Germany , Ireland , Italy , Luxembourg , Netherlands , Norway , Poland , Portugal , Spain , Sweden , Switzerland and the United Kingdom .
+As of 2015 , the service is vastly expanded and current coverage is available on the TomTom Traffic site ( 34 countries as of 26 June 2015 and the list expands every few months to new regions ) .
+HD Traffic 6.0 ( August 2012 ) : More accurate location of traffic jams , improved coverage of automatically detected road closures TomTom Traffic 7.0 ( September 2013 ) : Increased accuracy of jam location now allows for 'Jam Ahead Warnings ' , warning drivers when approaching a jam-tail too fast .
+Improved coverage of automatic road closure detection started to include also major secondary roads .
+Automatic road works detection on highways .
+TomTom also added 'Predictive Flow Feed ' for better predicting approaching traffic delays , with the goal of improving optimal route calculation and ETA .
+TomTom Traffic 8.0 ( November 2014 ) : TomTom included real-time weather information in their routing algorithms , and warns users in areas of bad weather .
+Also , version 8.0 now incorporates in their real-time traffic information road closures that are reported via the online Map Share Reporter tool .
+=== Consumer ===
+The company offers fee-based services under the name TomTom Plus ( stylized TomTom PLUS ) , which include services to warn drivers about speed cameras , provide weather updates , change voices and provide traffic alerts .
+Currently , the fees are only for European countries .
+Traffic data is also available to subscribers in many parts of Europe and the US via a Bluetooth-enabled cell phone with Internet service or an add-on aerial , which picks up RDS data ( broadcast on FM radio frequencies ) offering traffic information without the requirement for a data connection .
+The TomTom Plus service is not compatible with Apple 's iPhone .
+In October 2008 the company released Live Services on the Go 940 Live .
+These allowed users to receive updates over the mobile telephone network using the SIM card in the device .
+These services included HD Traffic , Safety Alerts , Local Search with Google and Fuel Prices .
+On 12 May 2011 , TomTom announced that it was offering up its real-time traffic products to industry partners in the United States.On the latest NAV4 devices the service is not available anymore in the old form .
+The included services had been separated and now being called TomTom Traffic and Speed Cameras .
+On the devices the traffic service is free of charge either via the built-in SIM ( Always Connected models ) or via a compatible smartphone ( smartphone-connected or BYOD bring-your-own-device ) .
+The speed camera service is free for three months on these models .
+However , there is a newer range , the models , which come now with free lifetime speed camera subscription too .
+Map Share is a proprietary map technology launched by TomTom in June 2007 .
+Map Share allows users to make changes to the maps on their navigation devices and share them with others .
+It allows drivers to make changes to their maps directly on their navigation devices .
+Drivers can block or unblock streets , change the direction of traffic , edit street names and add , edit or remove points of interest ( POIs ) .
+Improvements can be shared with other users through TomTom Home , TomTom 's content management software .
+An online version called Map Share Reporter is on the TomTom website .
+IQ Routes , developed by TomTom and available since spring 2008 on the TomTom Go 730 and Go 930 , uses anonymous travel time data accumulated by users of TomTom satnav devices .
+Newer TomTom devices use this data to take into account the time and day when determining the fastest route.Travel time data is stored in Historical Speed Profiles , one for each road segment , covering large motorways , main roads and also small local roads .
+Historic Speed Profiles are part of the digital map and are updated with every new map release .
+They give insight into real-world traffic patterns .
+This is a fact-based routing system based on measured travel times , compared to most other methods which use speed limits or assumed speeds .
+In September 2008 , map upgrade was released for x20 series models , extending the IQ Routes feature to those devices with a free software update using TomTom Home.On the NAV3 and NAV4 models the IQ Routes feature is available by default on all map versions .
+== Mapping ==
+TomTom products use Tele Atlas based maps .
+Map errors are reported using the Tele Atlas Map Insight and the TomTom Map Share Reporter Tool ( preferred tool ) .
+Reports can be done via the devices too .
+These reports are processed and approved/rejected by TomTom staff members and the end products are synchronized via the TomTom support applications , such as TomTom Home for the NAV2 devices and MyDrive Connect for the NAV3 and NAV4 devices .
+These support applications are available for Windows or Mac OS X based computers .
+Maps are not universally compatible across TomTom devices ; while most maps are available for most modern devices , a compatible version must be used .
+Version numbers have a three-digit number identifying the major version , a dot , then a four-digit build number .
+Major version v940 , for example , is available for most regions and most devices , but different builds are available for different regions and devices and supporting different features .
+The support applications ensure that the correct map version is assigned for download .
+For NAV2 devices one has to purchase the map via the TomTom Home support application and for NAV3 and NAV4 devices , one has to obtain the updates via the TomTom webshop .
+== Controversy ==
+In April 2011 , TomTom apologized for supplying driving data collected from customers to police to use in catching speeding motorists .
+The company had collected data from its Dutch customers which Dutch police subsequently used to set targeted speed traps .
+As a result of this , TomTom was investigated by the Dutch Data Protection Authority , who found that TomTom had not contravened the Dutch Data Protection Act.In 2011 , TomTom improved the clarity of its explanation of how it uses the data it collects from its customers.In May 2011 , the company announced that it was planning to sell aggregated customer information to the Roads Traffic Authority of the Australian state of New South Wales , which could also potentially be used for targeted speed enforcement.The privacy implications of this announcement were widely reported , particularly the lack of anonymity and the potential to associate the data with individuals .
+The company 's practice of selling its user data has been criticised by Electronic Frontiers Australia .
+David Vaile of the University of New South Wales ' Cyberspace Law and Policy Centre has called for an independent technical analysis of the company 's data collection practices .
+TomTom navigation devices collect user data that includes point of origin , point of destination , journey times , speeds and routes taken .
+The Australian Privacy Foundation said it would be easy to trace the data back to individual customers , even if TomTom claimed it used only aggregated , anonymous data.TomTom VP of Marketing Chris Kearney insisted the information was totally anonymous .
+In addition to this , he said TomTom never sold the information to Dutch authorities with speed cameras in mind , although Kearney would not rule out selling the user data for similar use in Australia.Such data is being purchased from various mapping companies by governments on a fairly regular basis .
+It is not known if governments use this data for purposes other than the placement of speed cameras , such as to improve the road network , introduce traffic lights or find accident hotspots .
+== Competition ==
+TomTom 's main retail car sat nav competitors are MiTAC ( Navman and Magellan Navigation ) and Garmin.TomTom 's main autonomous driving HD maps competitor is Here , which is owned by a consortium of German automotive companies ( namely Audi , BMW , and Daimler ) .
+== See also ==
+Comparison of commercial GPS software == References ==

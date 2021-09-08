@@ -1,0 +1,435 @@
+Wikipedia es una enciclopedia libre , [ nota 2 ] políglota y editada de manera colaborativa .
+Es administrada por la Fundación Wikimedia , una organización sin ánimo de lucro cuya financiación está basada en donaciones .
+Sus más de 50 millones de artículos en 300 idiomas han sido redactados en conjunto por voluntarios de todo el mundo , [ 5 ] lo que suma más de 2000 millones de ediciones , y permite que cualquier persona pueda sumarse al proyecto [ 6 ] para editarlos , a menos que la página se encuentre protegida contra vandalismos para evitar problemas o disputas .
+Fue creada el 15 de enero de 2001 por Jimmy Wales y Larry Sanger , [ 7 ] y es la mayor y más popular obra de consulta en Internet .
+[ 8 ] [ 9 ] [ 10 ] Desde su fundación , Wikipedia no solo ha ganado en popularidad encuentra entre los 20 sitios web más populares del , [ 11 ] [ 12 ] sino que además su éxito ha propiciado la aparición de proyectos hermanos : Wikcionario , Wikilibros , Wikiversidad , Wikiquote , Wikinoticias , Wikisource , Wikiespecies y Wikiviajes .
+Existen tres características esenciales del proyecto Wikipedia que definen en conjunto su función en la web .
+El lema La enciclopedia libre que todos pueden editar explica los tres principios : [ 13 ] Es una enciclopedia , entendida como soporte que permite la recopilación , el almacenamiento y la transmisión de la información de forma estructurada .
+Es un wiki , por lo que , con pequeñas excepciones , puede ser editada por cualquiera .
+Es de contenido su cofundador , Jimmy Wales , el proyecto constituye un esfuerzo para crear y distribuir una enciclopedia libre , de la más alta calidad posible , a cada persona del planeta , en su idioma , para lograr un mundo en el que cada persona del planeta tenga acceso libre a la suma de todo el saber de la humanidad .
+[ 14 ] Se desarrolla en el sitio haciendo uso de un software wiki originalmente usado para el .
+Wikipedia ha recibido diversas críticas .
+Algunos la han acusado de parcialidad sistémica y de inconsistencias , [ 15 ] con críticas sobre la política del proyecto enciclopédico de favorecer el consenso sobre las credenciales en su proceso editorial [ 16 ] [ 17 ] Otras críticas han estado centradas en su susceptibilidad de ser vandalizada y en la aparición de información espuria o falta de verificación , [ 18 ] aunque estudios eruditos sugieren que el vandalismo en general es deshecho con prontitud .
+[ 19 ] [ 20 ] De las 300 ediciones , diecisiete superan el 1 000 000 de artículos : inglés , cebuano , sueco , alemán , francés , neerlandés , ruso , italiano , español , polaco , samareño , vietnamita , japonés , chino , árabe , portugués y ucraniano .
+[ nota 3 ] Una buena parte de sus ediciones idiomáticas está disponible para ser utilizada offline , distribuida en DVD u otros soportes .
+[ 21 ] Muchas de sus ediciones han sido replicadas a través de Internet espejos y han dado origen a enciclopedias derivadas en otros sitios web .
+[ 22 ] Wikipedia ha sido criticada por exhibir sesgos sistémicos y por estar sujeta a manipulación y giro en temas controvertidos [ 23 ] ; Edwin Black ha criticado a Wikipedia por presentar una mezcla de verdad , verdad a medias y algunas falsedades .
+[ 24 ] Wikipedia también ha sido criticada por prejuicios de género , particularmente en su versión en inglés , donde la mayoría de los editores son hombres .
+Sin embargo , se han realizado maratones de edición para alentar a las editoras y aumentar la cobertura de temas relacionados con la mujer .
+[ 25 ] Facebook anunció que para 2017 ayudaría a los lectores a detectar noticias falsas sugiriendo enlaces a artículos relacionados de Wikipedia .
+YouTube anunció un plan similar en 2018 .
+[ 26 ] == Historia ==
+Wales cita el ensayo El uso del conocimiento en la sociedad , escrito por el economista y filósofo de la escuela austriaca y Premio Nobel de Economía Friedrich Hayek , que leyó cuando era estudiante , [ 27 ] como central para su pensamiento acerca de cómo gestionar el proyecto Wikipedia [ 28 ] [ 29 ] [ 30 ] [ 31 ] Hayek argumenta que la información está descentralizada individuo solo conoce una pequeña fracción de lo que se conoce y , como resultado , las decisiones se toman mejor por aquellos con conocimientos locales , en lugar de por una autoridad central .
+[ 28 ] [ 32 ] Wales reconsideró el ensayo de Hayek en la década de 1990 , mientras estaba leyendo sobre el movimiento de código abierto , que abogaba por la distribución gratuita de software libre .
+Fue particularmente conmovido por el ensayo La catedral y el bazar escrito por uno de los fundadores del movimiento , Eric Raymond y adaptado más adelante en un libro .
+Wales afirmó que ese ensayo abrió [ sus ] ojos a las posibilidades de colaboración masiva .
+[ 27 ] En marzo de 2000 , Jimmy Wales creó Nupedia , un proyecto de enciclopedia libre basado en un ambicioso y exhaustivo proceso de revisión por pares , [ 33 ] diseñado para hacer sus artículos de una calidad comparable a la de las enciclopedias profesionales gracias a la participación de eruditos doctorandos y , a los que se proponía colaborar de modo no remunerado .
+El proyecto tuvo el apoyo económico de la empresa Bomis , fundada por Wales y administrada por este junto con un compañero desde 1996 , [ 34 ] y la colaboración de Richard Stallman , quien propuso el cambio a la licencia pública general de GNU , desde la antigua Nupedia Open Content License .
+[ 35 ] Larry Sanger , doctor en filosofía , que ya conocía anteriormente a Wales de mantener con él discusiones filosóficas por Internet , fue contratado por este y se convirtió en redactor jefe de Nupedia .
+[ 34 ] Debido al lento avance del proyecto , en 2001 se creó un wiki vinculado a Nupedia cuya finalidad inicial era agilizar la creación de artículos de forma paralela , antes de que estos pasaran al sistema de revisión por expertos .
+Existe cierta polémica entre los fundadores de Nupedia sobre quién propuso originalmente la idea de usar un wiki a Jimbo Wales , si Larry Sanger o bien una tercera persona , [ 36 ] pero el caso es que el éxito de aquel pequeño proyecto paralelo acabó eclipsando a Nupedia , que dejó de funcionar en 2003 .
+El proyecto Wikipedia se inició el 15 de enero de 2001 .
+El artículo más antiguo que puede encontrarse en Wikipedia es UuU , creado el 16 de enero de 2001 en la versión inglesa ; consistía en tres enlaces hacia sendos artículos sobre el Reino Unido , Estados Unidos y Uruguay .
+[ 37 ] Larry Sanger pasó a colaborar con Wikipedia y trabajó activamente en la organización y directrices del proyecto ; se marchó en 2002 por desacuerdos con Wales .
+[ 34 ] Ese año , Wikipedia abarcaba 26 idiomas , 46 en 2003 y 161 a finales de 2004 .
+Wikipedia y Nupedia coexistieron hasta la extinción de la segunda en 2003 .
+[ 38 ] Sin embargo , la posibilidad de utilizar publicidad en Wikipedia provocó una reacción de parte de los contribuyentes de la Wikipedia en español , motivo que llevó a la creación de la Enciclopedia Libre Universal en Español en febrero de 2002 .
+[ 39 ] Este episodio podría haber impulsado a su vez la determinación de no utilizar publicidad , la creación de la Fundación Wikimedia y el cambio al nuevo url .
+[ 40 ] Se han iniciado otros varios proyectos de enciclopedia con formato wiki , en gran parte bajo una filosofía diferente de la apertura y el modelo editorial del punto de vista neutral desarrollado por Wikipedia .
+Por ejemplo , Wikinfo , uno de los portales web , no requiere un punto de vista neutral y permite la investigación original .
+[ 41 ] También hubo nuevos proyectos inspirados en Wikipedia Citizendium , Scholarpedia , Conservapedia , y Knol de Google [ 42 ] donde algunos de los aspectos que son fundamentales en Wikipedia se abordan de manera diferenciada , como las políticas de revisión por pares , la investigación original , y la publicidad comercial .
+El 20 de septiembre de 2004 , Wikipedia alcanzó 1 millón de artículos en 100 idiomas .
+[ 43 ] En 2007 la versión en inglés superó los 2 millones de artículos , convirtiéndose en la enciclopedia con mayor número de artículos de la historia y superando en ese aspecto a la Yongle Dadian de 1407 , que sostuvo el récord durante varios siglos .
+[ 44 ] Debido a su popularidad y sencillez , el Oxford English Dictionary ha considerado introducir el término wiki .
+[ 45 ] En octubre de 2011 , Wikimedia anunció el lanzamiento de Wikipedia Zero , una iniciativa para permitir el acceso gratuito móvil ( datos ) a la Wikipedia en países del tercer mundo a través de colaboraciones con operadores de telecomunicaciones móviles .
+[ 46 ] [ 47 ] == Etimología ==
+La palabra Wikipedia , nombre propio acuñado por Larry Sanger a principios de 2001 , es la contracción de wiki , una tecnología para crear sitios web colaborativos , procedente a su vez de wikiwiki , en hawaiano , [ 48 ] y encyclopedia , en inglés .
+[ 49 ] Este nombre se pronuncia en inglés como [ ] o AFI : [ ] ( AFI ) .
+La Wikipedia en español , creada meses después , heredó el nombre .
+Tras una votación realizada entre septiembre y noviembre de 2003 por parte de los usuarios de esta , se decidió seguir con el mismo término .
+En la votación se barajaron los siguientes nombres orden de : Librepedia , Huiquipedia , Uiquipedia , Güiquipedia , Viquipedia , Ñiquipedia , Velozpedia , Limonpedia , Güisquipedia y Velocipedia .
+[ 50 ] Otros que también usaron el nombre Wikipedia fueron los idiomas según el ISO : alemán , bretón , corso , danés , euskera , filipino , finlandés , gallego , neerlandés , indonesio , islandés , italiano , nauruano , noruego , polaco , rumano , siciliano , somalí , suajili y sueco .
+=== Otras grafías para el título ===
+Esta es una lista de las grafías alternativas usadas para nombrar a Wikipedia en las diferentes ediciones : [ 51 ] Nota : Cada asterisco denota una referencia respectiva por la múltiple adopción lingüística .
+=== Marca corporativa ===
+Desde su inicio en 2001 , Wikipedia ha utilizado diferentes marcas corporativas .
+El elemento común en todas ellas es una esfera escrita como elemento central , simbolizando el mundo y el conocimiento .
+En 2003 se adoptó por concurso internacional el dibujo de una esfera incompleta , conocida como , compuesta por piezas de un rompecabezas de varios colores , con enlaces en azul pertenecientes a distintas escrituras del mundo , simbolizando así la condición de obra en construcción que tiene Wikipedia .
+[ 52 ] El diseño que ganó el concurso internacional sufrió algunas modificaciones antes de ser aprobado como logo oficial , principalmente la eliminación del color y el reemplazo de los enlaces por grafemas de diversas escrituras del mundo .
+La denuncia de diversos errores e inconsistencias en los símbolos incluidos en el y la posibilidad de diseñar una imagen animada o fotorrealista impulsó entre diversos editores de Wikipedia un debate sobre la posibilidad de realizar modificaciones en el elemento gráfico .
+Como consecuencia , y tras la labor realizada a través de una iniciativa de la Fundación Wikimedia junto a miles de voluntarios para modificar la interfaz de la enciclopedia , el dibujo de la fue reemplazado en 2010 por un modelo tridimensional , en el que algunos símbolos de las piezas de rompecabezas fueron reemplazados por otros , principalmente aquellos que constituyen el primer grafema de la palabra Wikipedia en distintas wikipedias que existen en el mundo .
+Por añadidura , se cambió la tipografía del elemento denominativo WIKIPEDIA , La enciclopedia libre para usar la fuente abierta Linux Libertine , con excepción de la W inicial , que se mantiene con la fuente Hoefler Text y constituye también uno de los símbolos oficiales .
+[ 53 ] [ 54 ] [ 55 ] Cada Wikipedia según idioma es autónoma y tiene facultades para elegir la marca que la identifique .
+A partir de 2003 todas han adoptado básicamente la misma , con el elemento denominativo Wikipedia , The free encyclopedia Wikipedia , La enciclopedia libre traducido al idioma en que se escribe cada una .
+Las marcas han sido realizadas voluntaria y gratuitamente por usuarios de Wikipedia , y sus derechos pertenecen a la Fundación Wikimedia .
+== Edición y contenido ==
+Han existido y existen muchas enciclopedias en línea que compitieron con Wikipedia , como Microsoft Encarta y Encyclopædia Britannica ; sin embargo , ninguna ha logrado el mismo éxito que Wikipedia .
+[ 57 ] [ 58 ] Wikipedia busca crear un resumen de todo el conocimiento humano , con cada tema cubierto enciclopédicamente en un artículo .
+Como tiene terabytes de espacio disponible , puede abarcar muchos más temas que cualquier enciclopedia impresa .
+El grado exacto y la forma de cobertura en Wikipedia se encuentran en constante revisión por parte de sus editores , y los desacuerdos no son infrecuentes , tal como lo demuestra la controversia sobre eliminación de contenidos .
+[ 59 ] [ 60 ] Según un estudio realizado por la revista Nature en 2007 , Wikipedia alcanzaba a la Enciclopedia Británica en calidad , [ 61 ] aunque existe controversia sobre este asunto .
+[ 62 ] [ 63 ] Además , sus contenidos están disponibles en formato impreso .
+[ 64 ] [ 65 ] Otro estudio realizado por la Universidad Carnegie Mellon y Palo Alto Research Center sobre las mayores categorías de artículos en la Wikipedia en inglés desde julio de 2006 hasta enero de 2008 , arrojó los siguientes resultados : [ 66 ] === Interfaz ===
+Para la visualización de artículos , la fundación Wikimedia rediseñó la interfaz con un tema o tapiz que se conoce como vector , creado en 2010 .
+[ 67 ] [ 68 ] Antes de la actualización , años atrás existía una interfaz clásica conocida como Monobook con limitadas características .
+[ 69 ] Dentro de la interfaz , existen variedad de mandos usados para navegar o editar páginas .
+Por ejemplo , para buscar , ir a otros enlaces o ampliar imágenes como otros sitios web .
+Además , mediante las pestañas , pueden navegar , interaccionar o colaborar con otras páginas .
+Aunque algunas actividades de mantenimiento , son ocultas para los usuarios no registrados en el proyecto .
+Para editar un artículo se recurre al código wiki en una caja de texto a través de la pestaña Editar que no siempre está disponible en caso de alguna prevención contra el vandalismo .
+Entre sus mandos , no se asemejan al clásico HTML ; por ejemplo para los enlaces se usan corchetes , signos iguales para los títulos , entre otros , lo cual puede dar una mala impresión a aquellas personas que no tengan conocimientos en Informática .
+[ 70 ] === Ediciones idiomáticas ===
+En octubre de 2016 , Wikipedia abarcaba 284 ediciones activas en distintos idiomas y dialectos .
+Cada edición trabaja de forma independiente , no está obligada a incluir el contenido de otras ediciones , y solo debe respetar políticas globales tales como la de mantener un punto de vista neutral .
+Sin embargo , se comparten algunos artículos e imágenes entre las diversas ediciones de Wikipedia o a través del repositorio de Wikimedia Commons , y se solicitan traducciones organizadas de artículos procedentes de otras ediciones .
+Los artículos traducidos representan solamente una pequeña parte del total en cualquiera de ellas .
+[ 71 ] Las cinco ediciones con más artículos son , en orden descendente , inglés , sueco , neerlandés , alemán y francés .
+En enero de 2011 , Wikipedia contenía 278 ediciones en varios estados de desarrollo , que sumaban más de 17 millones de artículos .
+[ 5 ] La lista de idiomas incluye idiomas artificiales como el esperanto , lenguas indígenas o aborígenes como el náhuatl , el maya y las lenguas de las islas Andamán , o lenguas muertas , como el latín , el chino clásico o el anglosajón .
+El 1 de marzo de 2006 , la Wikipedia en inglés se convirtió en la primera en superar el millón de artículos , seguida el 27 de diciembre de 2009 por la Wikipedia en alemán , el 21 de septiembre de 2010 por la Wikipedia en francés , el 17 de diciembre de 2011 por la Wikipedia en neerlandés , el 22 de enero de 2013 por la Wikipedia en italiano , el 11 de mayo del mismo año por la Wikipedia en ruso , el 16 del mismo mes por la Wikipedia en español , el 15 de junio por la Wikipedia en sueco y el 24 de septiembre por la Wikipedia en polaco .
+Durante la primera mitad de 2014 , alcanzaron también el millón de artículos tres ediciones en lenguas asiáticas : la Wikipedia en vietnamita , la Wikipedia en samareño y la Wikipedia en cebuano .
+La siguiente es una lista de las dieciséis mayores ediciones ordenadas por número de artículos .
+Las cifras , que son referenciadas respectivamente a cada versión , son actuales .
+Muchas ediciones de Wikipedia la sueca , la neerlandesa y la utilizan bots para la creación automática de esbozos , razón por la que el número de artículos no es necesariamente una referencia válida con respecto a su estado o calidad .
+[ 73 ] [ 74 ] Una categorización diferente sería la media de tamaño por artículo ; así , una Wikipedia con numerosos artículos de apenas unos pocos bytes quedaría situada por debajo de otra con menos entradas pero más trabajadas .
+También hay que tener en cuenta que muchas Wikipedias , por ejemplo , la rusa , la japonesa , la china y la usan alfabetos no latinos , silabarios o sistemas ideográmicos , y ello aumenta el tamaño de las bases de datos .
+Distribución de editores por países Países desde donde se editan los artículos .
+Wikipedia en alemán : Alemania ( 68 ) , Austria .
+Wikipedia en español : España , México , Argentina .
+Wikipedia en francés : Francia , Canadá .
+Wikipedia en inglés : : ( 32 ) , .
+, India , Canadá .
+Wikipedia en japonés : Japón ( 86 ) , China .
+[ 75 ] == Acceso ==
+Según estadísticas de Wikipedia , en 2020 ingresan mensualmente al sitio unos 1600 millones de dispositivos , tomando el promedio de los últimos doce meses .
+[ 77 ] Aparte del sitio web , se han elaborado otras versiones alternativas que cumplen la misión de visualizar artículos a pesar de las críticas a la censura de artículos .
+En los móviles En agosto de 2009 , la Fundación Wikimedia lanzó una aplicación oficial de Wikipedia para el iPhone y el iPod Touch que se puede descargar de la App Store .
+Esta aplicación es libre , gratuita y solo funciona en el iPhone 3G o en versiones más recientes .
+[ 78 ] También hay versión para Android .
+[ 79 ] En cuanto a acceso mediante sitio web , ya existían alternativas como el sitio Wapedia ; sin embargo , Wikipedia cuenta con su propia versión móvil del sitio , disponible en línea .
+En soporte físico Otras versiones publicadas por la Fundación Wikimedia fueron las distribuciones en soporte físico sobre CD ( 2003 ) y DVD ( 2005 ) , en las cuales se incluían las versiones en alemán , polaco , portugués e inglés .
+Esto se hace mediante el software libre Kiwix que permite su instalación directa .
+Estas características permiten que sea posible ser usadas en computadoras sin conexión a internet , permitiendo la interactividad y comunicación entre diferentes puestos como por ejemplo centros infantiles .
+[ 80 ] En versiones impresas En Wikipedia hay servicios que ofrecen la versión impresa .
+MediaWiki ha incorporado una herramienta de recolección para exportar artículos a ODF o PDF .
+[ 81 ] También existe la posibilidad de imprimir libros vía PediaPress , un programa socio de la fundación Wikimedia , mediante la misma solicitud .
+[ 82 ] === Restricciones de acceso ===
+Desde octubre de 2005 , China había bloqueado el acceso a Wikipedia , pues el gobierno bloquea habitualmente el acceso a los sitios web que considera subversivos y filtra las páginas de Internet con términos que considera delicados .
+[ 83 ] Un año después , Wikipedia fue desbloqueada en el territorio chino , aunque la censura se mantuvo parcialmente con los términos sensibles , tales como Tíbet o Falun Gong .
+[ 84 ] En 2008 , varios centros educativos de los Estados Unidos prohibieron el uso de Wikipedia desde sus instalaciones por considerarla poco fiable .
+[ 85 ] También en el mismo año , 160 000 usuarios solicitaron a través del sitio web Care 2 la retirada de las imágenes sobre Mahoma en los artículos de Wikipedia .
+En este caso la petición fue rechazada .
+[ 86 ] En octubre de 2011 , debido a la aprobación de la ley mordaza , la Wikipedia en italiano tuvo que suspender las actividades por temor a la severas multas que ejecutarían en sus contenidos biográficos .
+[ 87 ] De manera similar , en enero de 2012 , la versión inglesa se autocensuró para protestar a la ley SOPA durante un día entero .
+Uno de los delegados de Twitter , Dick Costolo , consideró al sitio web que cerrar un negocio global por un solo asunto de política nacional es una locura .
+[ 88 ] [ 89 ] == Comunidad ==
+=== Cultura ===
+Proyectos como Wikipedia , o la Enciclopedia Libre son wikis en los que los artículos son desarrollados por numerosos autores , y no existe un criterio de revisión formal .
+Wikipedia es la enciclopedia más grande en cuanto a número de artículos o palabras jamás escrita .
+Al contrario de lo que sucede con muchas otras , su contenido está liberado bajo licencias de contenido abierto .
+En el caso de Wikipedia en español , cualquier persona tiene la posibilidad de crear un artículo nuevo y casi cualquier visitante puede editar el contenido , a excepción de los artículos que se encuentran protegidos .
+Sin embargo , en la inglesa los usuarios no registrados no pueden comenzar artículos desde cero .
+Wikipedia fue creada con la idea de producir textos de calidad a partir de la colaboración entre usuarios , a semejanza de los proyectos de desarrollo de aplicaciones libres .
+Los artículos evolucionan con el paso del tiempo , y esto es visible en su historial de ediciones .
+Habitualmente , una parte de las ediciones son vandálicas contenido no relacionado con Wikipedia o con información , y en ocasiones editores con puntos de vista encontrados producen lo que se conoce como guerra de ediciones .
+Esta se produce cuando dos o más editores entran en un ciclo de reversiones mutuas debido a disputas causadas por diferencias de opinión sobre el contenido del artículo .
+No hay que confundir vandalismo frecuentemente afecta una sola vez a un artículo o con guerra de ediciones , la cual afecta repetidas veces a un mismo artículo en un breve lapso .
+Entre los artículos vandalizados frecuentemente en la edición en español destacan : George Bush , Benedicto XVI o Testigos de Jehová ; mientras que artículos con fuertes guerras de ediciones son Cuba o Comunidad Valenciana , debido a la disparidad entre las opiniones de sus redactores .
+Cada capítulo de Wikipedia cuenta con un grupo de personal , encargado en la cooperación .
+Dentro de esta lista se mencionan a administradores , cuyas funciones fundamentales son hacer mantenimiento como borrar artículos , bloquear vándalos y otras y estar al servicio del cumplimiento de las normas que la rigen .
+El capítulo con más administradores es la Wikipedia en inglés , con un total de más de 1600 .
+[ 102 ] === Mascota ===
+Debido a su considerable popularidad , existieron propuestas de mascotas que representaban a Wikipedia de una manera no oficial .
+La primera en aparecer fue la de Wikípedo , una hormiga trabajadora dedicada al mantenimiento de sus contribuciones .
+[ 103 ] Su popularidad fue poca .
+En 2004 , en una votación para ser remplazada o abandonada , la comunidad eligió a , un personaje tipo dibujada por un usuario diseñador gráfico para un proyecto de anime y manga .
+[ 104 ] No obstante , ha sido criticada por ser sexuada , considerado ofensivo por partes de la comunidad .
+[ 105 ] [ 106 ] [ 107 ] == Políticas ==
+Wikipedia tiene una serie de políticas establecidas por los propios participantes , cuya finalidad conjunta es mantener la identidad del proyecto como enciclopedia y promover la calidad de sus contenidos .
+Cada capítulo de Wikipedia adopta sus propias políticas , aunque algunas son comunes a todos ellos .
+Una vez que la comunidad logra el consenso sobre la aplicación de una norma , todos los editores están obligados a respetarla .
+Algunas de estas políticas son : Debido a la diversidad y número de participantes e ideologías , provenientes de todas las partes del mundo , Wikipedia intenta construir sus artículos de la forma más exhaustiva posible .
+El objetivo no es escribir artículos desde un único punto de vista , sino presentar abiertamente cada postura sobre un determinado tema .
+Como es obvio , no caben todas las posturas , pues no se admitirían , por ejemplo , la inclusión de aportaciones de quienes exalten o defiendan ideas que implican odio o violencia ejemplo , no se admitirían frases a favor de personajes que hayan promovido el genocidio de razas consideradas como .
+[ nota 4 ] sigue una serie de convenciones con respecto al nombramiento de artículos , optándose preferentemente por la versión más comúnmente utilizada en su respectiva lengua .
+[ nota 5 ] discusiones acerca del contenido y edición de un artículo ocurren en las páginas de discusión y no sobre el artículo mismo .
+[ nota 6 ] varios temas que resultan excluidos de Wikipedia por no constituir artículos enciclopédicos estrictamente hablando .
+Por ejemplo , Wikipedia no contiene definiciones de diccionario verbos , adjetivos , , que sí pueden encontrarse en el Wikcionario .
+[ nota 7 ] === Neutralidad del contenido ===
+Wikipedia es un proyecto dirigido a todo el mundo y editable por cualquier persona .
+Esta característica constituye una de sus mayores ventajas , pero también genera un problema : existen personas que introducen o información parcial , bien creando un planteamiento sesgado , o bien omitiendo puntos de vista que no comparten o que no les interesan .
+[ 108 ] La política que se encarga de combatir dicho problema es el punto de vista neutral , que , básicamente , establece la necesidad absoluta e innegociable de reunir en los artículos susceptibles de polémica todos los puntos de vista significativos .
+Además , las licencias de contenido libre garantizan que dicho contenido pueda ser reeditado cuantas veces sea necesario y por cualquier persona si el propósito de la edición es la mejora .
+Según Jimmy Wales , uno de los fundadores de Wikipedia , la colaboración produce efectos positivos y ampliamente aceptados .
+[ 109 ] Para el ingeniero informático formado en filosofía Joaquín Siabra Fraile , Wikipedia es primero un conjunto de reglas y procedimientos y , solo después , contenidos , las reglas son un mecanismo virtual diseñado para conseguir unos contenidos fruto del consenso racional .
+Para Siabra se dan en el wikipedista lo que Habermas consideraba como criterios del participante en una situación ideal de comunicación : verdad , rectitud y veracidad .
+[ 110 ] [ 111 ] === Relevancia del contenido ===
+Wikipedia , debido a su condición de enciclopedia electrónica sin ánimo de lucro y en crecimiento permanente tanto en lo referente a su contenido como a su número de editores inmensa mayoría colabora de forma , admite información que no tendría cabida en una enciclopedia convencional , limitada esta última por el espacio físico de en el que se confina dicha información , por el número de editores contratados por la editorial y por el tiempo dedicado a confeccionar la obra .
+Sin embargo , no toda la información tiene cabida , y existen criterios de relevancia establecidos por consenso comunitario , de tal modo que , aunque no se rechaza a priori ningún artículo , se investigan las nuevas creaciones y se descartan las que no cumplen determinados requisitos .
+Por ejemplo , no se admiten los artículos autopromocionales ; esto es , que ninguna persona puede publicar un artículo sobre sí misma , sobre una persona cercana , por o sobre la empresa en la que trabaja .
+Cuando el tema goza de una mínima relevancia , llega a captar la atención de algún medio de comunicación , revista , reputado , y es a estos últimos a los que , según las normas de Wikipedia , debe acudirse para crear el artículo .
+Estos criterios están contemplados en varias políticas , a saber , Páginas de autopromoción , [ 112 ] Criterios para el borrado rápido , [ 113 ] Wikipedia no es una fuente primaria , [ 114 ] Verificabilidad [ 115 ] y Fuentes fiables .
+[ 116 ] Según declaraciones oficiosas de un bibliotecario colombiano de la Wikipedia en español , los bibliotecarios de esta Wikipedia eliminan más artículos que los de otras versiones de Wikipedia .
+[ 117 ] === Licencia de contenido ===
+El contenido textual está bajo las licencias GNU y Creative Commons ; la última versión se actualizó mediante una votación entre el 12 de abril y el 3 de mayo de 2009 .
+[ 118 ] Mediante el lema La enciclopedia libre se entendía , al modo del software libre , como un producto de distribución gratuita y sin restricciones .
+Así también , se considera software por la codificación de MediaWiki , bajo GPL .
+Esta redistribución presenta el requisito de que debe ser acreditada , es decir , debe mencionarse su atribución , ya que la licencia incluye ; además , es necesario conservar esta licencia otra evitando su protección de distribución .
+[ 119 ] Sin embargo , se había estado trabajando en el cambio a licencias Creative Commons , porque la GFDL , inicialmente diseñada para manuales de software , no es adecuada para trabajos de referencia en línea y porque las dos licencias son incompatibles .
+[ 120 ] A cada autor , editor o ilustrador que contribuye a la enciclopedia siempre se le atribuyen los derechos de autor según la convención de Berna .
+[ 121 ] Un autor también puede copiar contenido de otro con el permiso correspondiente todo en el caso de contenido con licencia , sin embargo no podrá usarse un contenido que prohíbe su distribución , reproducción o modificación de una manera ilícita , porque ello limitaría su utilización con seguridad y acarrearía problemas con las políticas .
+Por ello , en la Wikipedia en inglés puede aparecer cualquier imagen ilustrativa siempre que lo haga de manera lícita .
+[ 122 ] A excepción del contenido y varias de sus características , el isologo de esta marca corporativa está protegido , por lo que no se permite su distribución sin previa autorización .
+[ 123 ] === Protección de datos ===
+Para la fundación , la privacidad de la información es tan importante como la prevención de vandalismo .
+[ 124 ] Muchos artículos son revertidos o incluso ocultados del historial la , este último se consigue con la eliminación de información a través de supresores que disponen de herramientas específicas para ello .
+De este modo , por ejemplo , se eliminan las ediciones insultantes o intimidatorias y se evitan sobrecargas confusas en el historial del artículo .
+[ 125 ] En cuanto a la comunidad , los usuarios no ceden demasiada información y es la propia comunidad quien decide salvar fácilmente de cualquier amenaza .
+[ 126 ] Ello permite atribuir de una manera anónima y minimiza el trabajo .
+Para administrar , por ejemplo , se realizan estadísticas , para organizar las visitas , artículos , entre otros ; pudiendo ser poco usual para censar comunidades .
+En cuanto a la atribución , Creative Commons , por su parte , no garantiza el contenido por los derechos de imagen que hayan cedido .
+[ 127 ] En la Wikipedia en alemán los artículos no son publicados hasta haber sido revisados por un editor experto .
+Se está barajando la posibilidad de aplicar la misma medida en la Wikipedia en inglés .
+[ 128 ] == Funcionamiento ==
+Wikipedia está siendo editada por miles de personas en todo el mundo .
+Con excepción de ciertas personas remuneradas por la Fundación Wikimedia , [ 129 ] el resto , conocidos en la jerga de Wikipedia como wikipedistas , actúan siempre de manera gratuita y voluntaria .
+[ 130 ] En total , la comunidad está conformada por más de 400 millones de usuarios registrados en todo el mundo , [ 131 ] incluyendo algo más de 1 700 000 en la versión hispana , donde el 13 son mujeres .
+[ 132 ] En las páginas internas de Wikipedia fundamentalmente a los , se anima a los usuarios a participar activamente en el proyecto .
+Hay diversas formas de colaborar : desde crear nuevos artículos , ampliar los ya existentes , o corregir textos que no cumplan las convenciones de estilo establecidas o cuya información sea errónea o inexacta , hasta clasificar artículos por materia , añadir imágenes y otros materiales multimedia del repositorio Commons , retirar textos con derechos de autor , aportar sugerencias , o , para los más inexpertos , señalar simplemente cualquier defecto encontrado con la finalidad de que otros lo corrijan .
+Actualmente , 67 son administradores humanos y 31 son sistemas de mantenimiento robot como trabajadores automáticos de mantenimiento .
+=== Usuario anónimo ===
+Para colaborar no es necesario registrarse .
+Por ese motivo , los contribuyentes que no se registran , conocidos como usuarios anónimos , aparecen identificados en sus ediciones con un número de IP en lugar de con un alias .
+Por no estar registrados , tienen restringidas ciertas acciones , como la de votar en la toma de decisiones .
+=== Usuario registrado ===
+En Wikipedia el registro es gratuito e instantáneo .
+El usuario registrado , a diferencia del anónimo , se identifica con un alias y una página de usuario propia , [ nota 8 ] además de poder personalizar su interfaz de edición wiki .
+Una condición necesaria a la hora de registrarse es elegir un alias que no resulte ofensivo o difícil de escribir .
+[ 133 ] A algunos usuarios que ya llevan un cierto tiempo editando en Wikipedia sin problemas se les asigna la categoría de autoconfirmados ; sus ediciones aparecen en la página de cambios recientes con un fondo diferente al del resto de los usuarios .
+Es una medida de economía de esfuerzos que permite que los usuarios que se dedican a combatir vandalismo y revertir ediciones incorrectas , basándose en la confianza en estos usuarios , se abstengan de comprobar sus ediciones y de este modo focalicen su labor en el resto de las ediciones , disminuyendo el volumen de trabajo con menor riesgo de equivocarse .
+Al día de hoy , en la edición en español hay registrados 6 030 473 usuarios , de los cuales menos del son usuarios activos que han realizado al menos una acción en los últimos 30 .
+De acuerdo a Christian Stegbauer , un sociólogo alemán , por el número de colaboradores no puede definirse si Wikipedia es democrática o no .
+En sus propias palabras , y refiriéndose a la Wikipedia en alemán : nuestra conclusión es que en el fondo son menos de 1000 personas las que deciden sobre esta enciclopedia digital .
+[ 134 ] Se ha comprobado que determinados usuarios crean las llamadas cuentas de propósito particular ; estos usuarios se registran con el único propósito de introducir información que beneficie sus propios intereses , motivo por el cual en numerosas ocasiones sus ediciones son sesgadas , parciales o inútiles desde el punto de vista enciclopédico .
+[ 133 ] Según un análisis publicado el 1 de abril de 2009 por el investigador español José Felipe Ortega , del grupo Libresoft , de la Universidad Rey Juan Carlos , Wikipedia había sufrido un descenso notable de editores en todas sus versiones lingüísticas entre 2007 y 2009 .
+La noticia fue ampliamente recogida por los medios de comunicación .
+[ 135 ] Esta última afirmación fue desmentida por Jimmy Wales , fundador de Wikipedia .
+[ 136 ] === Funciones de administración ===
+Una pequeña parte de los usuarios de Wikipedia del de los usuarios activos y del del total de usuarios registrados en la Wikipedia en [ 137 ] se dedica a labores administrativas .
+Estos usuarios ejercen esas funciones ser propuestos por parte de otro u otros usuarios , generalmente en una votación democrática abierta a la totalidad de la comunidad de usuarios registrados , y los requisitos y normas de dicha votación de cualquier votación en se recogen en una política llamada Votaciones .
+[ 138 ] Según el sociólogo alemán Christian Stegbauer , [ l ] o interesante es que los administradores son elegidos , y así obtienen una especie de legitimidad democrática .
+Por otro lado , solo una parte de las personas participa activamente en dicha elección , y muchos de ellos ya son administradores .
+Si es un administrador el que propone a un candidato , la probabilidad de ser elegido es mayor que si la propuesta proviene de otro miembro .
+[ 139 ] La Fundación Wikimedia describe los siguientes cargos administrativos principales , innecesarios para editar , pero sí necesarios para asuntos de protección y coordinación en el software : [ 140 ] Los supresores de edición son usuarios que eliminan ediciones , decidiendo cómo de manera compleja .
+Los bibliotecarios son usuarios que pueden bloquear a otros usuarios para la edición , y también pueden borrar artículos con información innecesaria .
+Los denominados checkusers español , revisores de pueden rastrear una dirección IP para verificar identidades .
+Esto necesario para evitar un sistema de duplicación llamados usuarios títeres usado con fines de ventaja en votaciones o de engaño .
+Los llamados burócratas tienen permisos para otorgar estatus de administrador , controlar los bots y cambiar nombres de declaraciones oficiosas de un bibliotecario colombiano de la Wikipedia en español , existe un problema de comunicación entre los bibliotecarios de esta Wikipedia en el ejercicio de las políticas y algunas personas que se consideran expertas en determinados temas , y este problema redunda en perjuicio para la enciclopedia .
+También afirma que los bibliotecarios de la Wikipedia en español eliminan más artículos que los de otras versiones de Wikipedia .
+[ 141 ] En cualquier caso , las declaraciones de los usuarios de Wikipedia , ostenten cargo administrativo o no , deben tomarse como una mera opinión personal sin la menor representatividad , puesto que , si bien los bibliotecarios son elegidos democráticamente por el resto de los usuarios , entre sus funciones no se encuentran las de representar a la comunidad o a Wikipedia ni la de establecer autoridad más allá de la que les confiera el ejercicio de las políticas .
+[ 142 ] === Bots ===
+Regularmente operan en Wikipedia varios sistemas de edición automática .
+Se denominan bots de , y cumplen la realización de ciertas tareas tediosas para los editores , como la creación de enlaces entre las distintas ediciones de la enciclopedia , pequeños ajustes internos del código wiki , la corrección de faltas ortográficas , etc .
+Algunas ediciones de Wikipedia utilizan también bots para la creación masiva de artículos , normalmente esbozos .
+Para ser considerados como tales deben tener al menos el afijo BOT y un supervisor , el cual es el usuario propietario .
+[ 143 ] === Software y hardware ===
+Wikipedia se ejecuta sobre el software libre MediaWiki .
+MediaWiki es la fase III del programa , cuya historia de desarrollo es la siguiente : Fase I : Originalmente , Wikipedia se ejecutaba en UseModWiki , creado por Clifford Adams .
+Al principio era necesario usar CamelCase para los enlaces ; después esto se solucionó y fue posible usar dobles II : En enero de 2002 , Wikipedia comenzó su funcionamiento sobre un motor wiki en PHP con base de datos MySQL .
+Este software , fase II , fue escrito por Magnus Manske específicamente para el proyecto Wikipedia .
+Más tarde se implementaron muchas mejoras y modificaciones para incrementar el rendimiento debido a la creciente III : Por último , el software fue reescrito por Lee Daniel Crocker .
+Establecida en julio de 2002 , esta fase III del programa se llamó MediaWiki .
+Está amparada bajo la licencia GPL y es usada por todos los proyectos de instalan varias extensiones de MediaWiki para ampliar la funcionalidad del software MediaWiki .
+En julio de 2013 , después de extensas pruebas beta , la extensión WYSIWYG del editor visual se abrió al uso público .
+[ 144 ] [ 145 ] [ 146 ] [ 147 ] La característica se cambió a predeterminada después .
+Wikipedia actualmente se ejecuta en grupos dedicados de servidores Linux ( principalmente Ubuntu ) .
+[ 148 ] [ 149 ] A diciembre de 2009 , había 300 en Florida y 44 en Ámsterdam .
+[ 150 ] Para el 22 de enero de 2013 , Wikipedia había migrado su centro de datos primario a una instalación de Equinix en Ashburn , Virginia .
+[ 151 ] [ 152 ] En 2017 , Wikipedia había instalado un clúster de almacenamiento en caché en una instalación de Equinix en Singapur , la primera de su tipo en Asia .
+[ 153 ] == Fundación Wikimedia y proyectos hermanos ==
+El sitio web de Wikipedia está mantenido exclusivamente por la Fundación Wikimedia , una organización sin ánimo de lucro instituida bajo las leyes de Florida ( Estados Unidos ) cuya finalidad es promover en el mundo apoyo económico y social para varios proyectos colaborativos de contenido libre .
+[ 154 ] [ 155 ] Su existencia fue oficialmente anunciada por el director general de Bomis y cofundador de Wikipedia , Jimbo Wales , el 20 de junio de 2003 .
+=== Proyectos complementarios de apoyo ===
+Dos de los proyectos de la Fundación Wikimedia actúan como complementos del resto de los proyectos , incluyendo a Wikipedia .
+Uno es un almacén de contenido multimedia que los editores del resto de los proyectos pueden incrustar a modo de ilustraciones , y el otro se encarga del software que sustenta a todos los proyectos : [ 156 ] Wikimedia Commons : También recibe los nombres de Commons o La Comuna , es un depósito común de imágenes y contenido multimedia libre para los proyectos hermanos de la Fundación Wikimedia .
+Antes de su existencia , para usar una imagen en una cierta Wikipedia había que subirla a la edición correspondiente , con lo que se clonaba el mismo contenido varias veces , algo realmente ineficiente .
+Para ello se usaban scripts de subida masiva , que ahora han caído en desuso por la existencia de Commons .
+: Es un sitio web cuyo sistema administra la tecnología wiki para la visualización de las páginas de los proyectos de la Fundación Wikimedia .
+=== Proyectos hermanos ===
+Hay contenidos que no tienen cabida en Wikipedia por no ser información enciclopédica .
+Por ello se han desarrollado varios proyectos hermanos independientes entre sí que recogen este otro tipo de información .
+Todos ellos son también multilingües y libres y están administrados por la Fundación Wikimedia .
+[ 157 ] Wikcionario : Es el proyecto de la Fundación Wikimedia para la construcción de un diccionario libre .
+Tiene una función complementaria a Wikipedia , ya que un gran número de artículos , por su carácter no enciclopédico , se destinan al diccionario .
+Wikilibros : Tiene por objetivo poner a disposición de cualquier persona libros de texto , manuales , tutoriales u otros textos pedagógicos de contenido libre y de acceso gratuito .
+Wikiversidad : Apoyada en el anterior , se propone como una plataforma educativa en línea , libre y gratuita , donde es posible crear proyectos de aprendizaje a cualquier nivel educativo , participar en un grupo de aprendizaje , crear contenidos didácticos tales como exámenes , ejercicios de prácticas , etc .
+Wikiquote : Es un compendio abierto en línea de frases célebres en todos los idiomas , incluyendo las fuentes estas se .
+Wikinoticias : Es una fuente de noticias de contenido libre .
+Wikisource : Es una biblioteca en línea de textos originales que han sido publicados con una licencia GFDL o se encuentran en el dominio público .
+Wikiespecies : Es un repertorio abierto y libre de especies biológicas cuyo objetivo es abarcar todas las formas de vida conocidas .
+Wikiviajes : Es una guía turística libre .
+== Impacto popular ==
+Wikipedia es uno de los sitios web más visitados y referenciados del mundo en Internet , y consecuentemente es uno de los primeros sitios incluso el primero , en muchos de entre los que aparecen en los resultados de los motores de búsqueda .
+[ 11 ] [ 158 ] Este hecho , sumado a la influencia cada vez mayor de Internet sobre las personas , trae como consecuencia un enorme impacto popular de la enciclopedia colaborativa a todos los niveles , impacto que se va acrecentando a medida que pasa el tiempo .
+[ 159 ] [ 159 ] En los últimos años , Wikipedia ha estado influyendo notablemente en los medios de comunicación , sobre todo periodísticos , los cuales en numerosas ocasiones copiaron información de la web enciclopédica , la mayoría de las veces sin citar la fuente .
+[ 160 ] A este respecto , es bastante ilustrativo el experimento realizado por Shane Fitzerald , un estudiante universitario dublinés de 22 años , publicado el 6 de mayo de 2009 por el periódico : [ 161 ] [ 162 ] Tras enterarse del fallecimiento de Maurice Jarre unas horas antes , Shane editó el artículo correspondiente al compositor para incluir una cita ficticia : Poco después la cita apareció en las secciones necrológicas de los periódicos The Guardian y The London Independent , en el sitio web The BBC Music Magazine y en periódicos de la India y Australia .
+Este experimento demuestra la fuerza de Internet a escala global .
+Los periodistas que usaron esta cita obviamente confiaron en Wikipedia como fuente de información ; tal vez no podían permitirse el lujo de realizar investigaciones ulteriores bajo la presión de la necesidad de ser los primeros en publicar la cita , y como resultado proporcionaron a los lectores una información falsa .
+En cuanto a Wikipedia , los errores normalmente se corrigen con prontitud , aunque , en casos como el relatado , no lo suficiente como para adelantarse a los acontecimientos .
+Este tipo de experimentos raramente se realizan en Wikipedia , y los editores que son descubiertos reciben por parte de los administradores severos castigos que , en función de la gravedad de su falta , pueden llegar al bloqueo de su dirección IP a perpetuidad .
+Por otra parte , existen personas que acusan a Wikipedia de difamación , y es ilustrativo el caso de Alejandro Peña Esclusa , quien afirmaba que el gobierno de su país estaba llevando contra él una campaña en la que colaboró la enciclopedia .
+[ 163 ] En cualquier caso , Wikipedia , como proyecto de fuente no primaria que es , se basa en una serie de políticas que promueven la verificabilidad y el uso de fuentes fidedignas y reputadas .
+A partir de este punto , Wikipedia delega cualquier tipo de responsabilidad en el momento en que publica el nombre de la fuente de la que se obtuvo la información .
+De ahí , entre otras cosas , la importancia de la verificabilidad , uno de los cinco pilares básicos sobre los que se sustenta el proyecto .
+[ 164 ] Se han producido varios casos en los que dirigentes políticos , o personas próximas a ellos , modificaron artículos de Wikipedia interesadamente .
+[ 165 ] [ 166 ] En otro orden de cosas , se han creado versiones que la parodian .
+Entre las más conocidas se encuentran , en inglés , Uncyclopedia y Encyclopædia Dramatica , y , en español , La Frikipedia e Inciclopedia .
+En historietas humorísticas , Skeletor aparece vandalizando el artículo de .
+[ 167 ] === Premios y reconocimientos ===
+Debido a sus méritos y popularidad , el sitio web ha obtenido a lo largo de los años varios galardones y menciones .
+[ 169 ] Algunas muestras son las siguientes : En abril de 2004 , Jonathan Dee , de The New York Times , [ 170 ] y Andrew Lih , en el 5th International Symposium on Online Journalism ( 2004 ) , [ 171 ] citaron la importancia de Wikipedia no solo como enciclopedia de consulta sino también como fuente de información actualizada debido a la rapidez con que aparecían los artículos sobre eventos 23 de junio de 2004 , Wikipedia recibió el premio Golden Nica for Digital Communities en el concurso anual de Prix Ars Electronica , dotado con mil libras esterlinas .
+[ 172 ] la primavera de 2004 , se le concedió el Premio Webby en la categoría Best Community Mejor Comunidad .
+[ 173 ] 2006 , la revista Time nombró a You español , , tú , como Persona del año , reconociendo así el éxito acelerado de la colaboración en línea y de la interacción entre millones de usuarios de todo el mundo ; asimismo citó a Wikipedia como uno de los tres ejemplos de servicios Web , junto con YouTube y MySpace .
+[ 174 ] 26 de enero de 2007 , Wikipedia obtuvo el cuarto lugar en una encuesta realizada a los lectores de , recibiendo el 15 de los votos en respuesta a la pregunta marca tuvo el mayor impacto en nuestras vidas en 2006 .
+[ 175 ] 24 de octubre de 2008 Wikipedia participó , junto con otros 23 sitios web nominados , en el Premio Príncipe de Asturias de Comunicación y Humanidades .
+El ganador fue la división española de Google .
+[ 176 ] destacar que , en 2010 , la empresa Google donó dos millones de dólares a la Fundación Wikimedia al tiempo que mencionaba a Wikipedia como uno de los grandes triunfos de internet .
+[ 177 ] 2013 , Andriy Makukha de Wikimedia Ucrania propuso el nombre Wikipedia al asteroide 2008 QH24 .
+( 274301 ) Wikipedia es un asteroide del cinturón de asteroides descubierto en 2008 .
+La designación fue avalada por la Unión Astronómica Internacional ( UAI ) .
+[ 178 ] [ 179 ] designación oficial del asteroide Wikipedia dice : El 17 de junio de 2015 le fue otorgado el Premio Princesa de Asturias de Cooperación Internacional .
+[ 181 ] === Estímulos ===
+Los usuarios de Wikipedia organizan eventos regulares y ocasionales con el objetivo de promover la creación y edición de artículos .
+Por ejemplo , en 2006 se creó un proyecto llamado : 250 k , dedicado a aumentar el número de artículos , con el que se llegó al final del año a los 250 000 artículos en la Wikipedia en español .
+[ 182 ] Proyectos de ese tipo o similares se organizan cada año .
+Por otro lado , existe una serie de proyectos incluidos en el propio sitio web que reciben el nombre de wikiproyectos , cada uno de los cuales se dedica a trabajar sobre un tema específico ortográficas , creación y ampliación de artículos de determinado campo , manejo de ilustraciones , etc .
+[ 183 ] Fuera del sitio web , otros han expresado las impresiones personales que el sitio les produce .
+Por ejemplo , Vicente Verdú , en un artículo de la versión digital del periódico El País , describió la experiencia de usar Wikipedia como una divertida y multitudinaria manera de gozar , jugar , amar y pasar el rato .
+[ 184 ] Por su parte , en un artículo de opinión en Terra Networks Perú se consideraba que su uso desordenado y excesivo causaba wiki adicción .
+[ 185 ] En una entrevista con Jimmy Wales , representante de la Fundación Wikimedia , para EFE , este explicó su creencia de que la expansión de Internet en otros países ampliaría el uso de Wikipedia sobre todo en lugares subdesarrollados , creando de este modo una conexión de culturas .
+[ 186 ] Con motivo del décimo aniversario de Wikipedia , el mismo Wales declaró su deseo de que Wikipedia alcanzase los 1000 millones de usuarios para 2015 .
+[ 187 ] En el ámbito económico , Alex Konanykhin , fundador y presidente de perteneciente a , presentó a Wales una propuesta de colaboración .
+El plan consistía en ofrecer los servicios de una red de escritores por contrato a todas las empresas o entidades que cumpliesen con los requisitos de rigor exigidos por Wikipedia para crearles sus propios artículos de forma enciclopédica .
+Según Konanykhin , este modelo financiero aseguraría el futuro de Wikipedia .
+[ 188 ] No obstante , Wikipedia , lejos de presentar apuros económicos , ha batido su récord de recaudación en la campaña efectuada para el ejercicio de 2011 , con 16 millones de dólares procedentes de 500 000 donantes de 140 países , todo ello en tan solo un mes y medio .
+[ 189 ] == Críticas ==
+=== Fiabilidad y precisión ===
+Hay controversia sobre su fiabilidad y precisión .
+[ 191 ] La revista científica Nature declaró en diciembre de 2005 que la Wikipedia en inglés era casi tan exacta en artículos científicos como la Encyclopaedia Britannica .
+[ 192 ] El estudio se realizó comparando 42 artículos de ambas obras por un comité de expertos sin que estos supieran de cuál de las dos enciclopedias provenían .
+El resultado fue que Wikipedia tenía casi el mismo nivel de precisión que la Enciclopedia Británica , pero tenía un promedio de un error más por artículo .
+[ 193 ] Por otro lado , y según consta en un reportaje publicado en junio de 2009 por el periódico español El País , un estudio de 2007 , dirigido por el periodista francés Pierre Assouline y realizado por un grupo de alumnos del máster de Periodismo del Instituto de Estudios Políticos de París para analizar la fiabilidad del proyecto , se materializó en el libro La revolución Wikipedia ( Alianza Editorial ) cuyas conclusiones eran bastante críticas .
+Entre otras cosas , afirmaba que el estudio de Nature fue poco estricto y sesgado , así como que , según su propio estudio , la Britannica continuaba siendo un 24 más fiable que la Wikipedia .
+[ 194 ] === Falta de referencias y de contenidos ===
+Desde su nacimiento , Larry Sanger ya discrepó por la posible falta de veracidad , y le siguieron después otros autores , caso de Arias Maldonado ( 2010 , ) o Assouline et al .
+( 2008 ) .
+Incluso los que la defienden como una obra documentada , caso de Tim , la colocan en los últimos puestos .
+[ 195 ] Ndesanjo Macha indica que muchas veces lo más enriquecedor está en las discusiones y no en el artículo propiamente dicho , porque allí pueden reflejarse mejor los distintos puntos de vista y las lagunas existentes .
+Para Bob McHenry , exeditor de la Enciclopedia Británica , uno de los mayores riesgos a los que se enfrenta Wikipedia es la entrada de personas convencidas de que su punto de vista es el verdadero , impidiendo incluir cualquier otro .
+Por esta razón , lo realmente valioso puede aparecer en las discusiones y no el artículo , como confirma Ndesanjo Macha .
+[ 195 ] Para Assouline et al .
+( 2008 , 12 ) Wikipedia está matando los valores de verificación y consulta de fuentes primarias que deben tener los periodistas , historiadores o profesionales del conocimiento en general .
+Según el autor esta enciclopedia en línea es también el instrumento ideal para desinformar al ser editada por partidos políticos y otros grupos de presión .
+[ 196 ] Además presenta problemas en la diferenciación de lo importante y lo superfluo : así , en la versión francesa , la entrada sobre Albert Londres comenzaba diciendo periodista judío francés [ ] como si su religión fuese el segundo dato más importante del resumen , incierto al mismo tiempo por ser londinense y católico , fruto de una campaña para desacreditarlo haciéndolo pasar por judío .
+Otro ejemplo era el artículo sobre Alexandre Solzhenitsyn que dedicaba la mitad de su contenido a la relación del escritor con España , por haber realizado un comentario sobre Francisco Franco que no gustó al redactor .
+[ 197 ] Los ejemplos dados por Assouline sobre la excesiva extensión de unos contenidos frente a otros fueron refrendados por un estudio dirigido por la Universidad de Minnesota , junto a otras tres , en 2011 .
+La conclusión fue que la Wikipedia en inglés mostraba que los artículos realizados por mujeres , presumiblemente destinados más a un público femenino , eran significativamente más cortos que los redactados por hombres o por hombres y mujeres .
+En ese mismo año la Universidad de Oxford demostró que el 84 de las referencias a localidades se situaban en Europa y América del Norte , del mismo modo que la Antártida contaba con más artículos que África o Sudamérica .
+[ 198 ] === Errores y vandalismo ===
+Dos de los principales motivos por los cuales Wikipedia es criticada en cuanto a la exactitud y fiabilidad de sus contenidos son la persistencia de detalles erróneos difíciles de detectar no necesariamente malintencionadas , pero que pueden permanecer en un artículo por mucho .
+[ 199 ] Por su parte los actos vandálicos , modificaciones inapropiadas u ofensivas de los artículos que entorpecen el desarrollo del proyecto , constituyen un importante factor en las problemáticas de contenido , cuya solución a largo plazo no pasa sucede en los otros dos por una mejora constante de la calidad ni por la incorporación o ampliación progresiva de artículos .
+Mientras que las inexactitudes de contenido y las tendencias de crecimiento irregular [ 198 ] pueden ser subsanadas a medida que siga evolucionando el proyecto aumenten las ediciones de , el vandalismo representa una amenaza constante que se incrementa en proporción al crecimiento exponencial de Wikipedia .
+Por ejemplo , la exposición a una mayor afluencia de visitas a los artículos publicados en varios medios de prensa implicaba un porcentaje muy alto de vandalismos de personajes , casi tanto como el de cambios constructivos .
+[ 200 ] [ 201 ] [ 202 ] Pero no solo se trata de ediciones dentro de artículo , también existen artículos enteros falsos .
+[ nota 10 ] La Wikipedia en inglés posee una entrada dedicada solo a ellos , como también la Wikipedia en español .
+La existencia de artículos falsos con una duración de casi diez años siembra dudas sobre la capacidad de Wikipedia para autocorregirse .
+En otros casos , además de la duración destaca los sucesivos filtros por los que pasaron , caso del Conflicto de Bicholim que fue redactado sin que nadie se percatara del fraude , propuesto a Bueno , elegido como Artículo Bueno , propuesto a Destacado y rechazado por cuestiones técnicas sin que nadie comprobase la veracidad de los contenidos .
+[ 203 ] De manera similar pasó con el artículo Cayo Flavio Antonino , supuesto asesino de Julio César , cuya entrada permaneció ocho años en forma de esbozo .
+[ 204 ] Uno de los más controversiales fue Santiago Swallow , conferencista ficticio creado por Kevin Ashton y que fue descubierto al publicarse un artículo de prensa donde el autor declaró que invirtió 68 dólares para hacerlo famoso .
+[ 205 ] [ 206 ] En 2014 se desarrolló un algoritmo hecho por la Universidad de Nanjing de Correos y Telecomunicaciones sobre la base de la red bayesiana , método similar a la detección de correo basura ; se piensa que el sistema se implementará en un futuro próximo .
+[ 207 ] Un ejemplo paradigmático de vandalismo masivo se produjo el 31 de julio de 2006 como consecuencia de una llamada a la participación por parte de Stephen Colbert , un conocido humorista y presentador de la televisión norteamericana , en una sección de su programa The Colbert Report que tituló Wikiality : [ 209 ] Después de algunos gags en torno a la posibilidad de cambiar la ubicación de estados y países en sus respectivas definiciones de Wikipedia , animó a los telespectadores a modificar la entrada para que constara que , en lugar de disminuir , la población del elefante africano se había triplicado .
+Como resultado inmediato , hasta veinte entradas de la Wikipedia en inglés que hacían referencia a elefantes fueron bloqueadas por sus administradores , o bien pasaron a estado de , solo modificables por usuarios registrados con un mínimo de antigüedad .
+Para todos los ejemplos citados y sus variantes , aparte de las medidas correctoras llevadas a cabo en forma de reversión , aviso o bloqueo , la comunidad de wikipedistas crea y mantiene igual que sucede entre programadores voluntarios en entornos de software toda una serie de herramientas e implementaciones técnicas destinadas a actuar contra el vandalismo , desde foros y canales específicos de IRC hasta programas paralelos de detección y aviso , pasando por usuarios que son en realidad programas bot cuya misión es exclusivamente combatir los actos vandálicos .
+Parece que con dichas modificaciones ese problema comenzó a estar bajo control desde 2007 , pero limitó las posibilidades de supervivencia de Wikipedia .
+[ 198 ] En otras ocasiones los errores llegan por la confusión .
+Algunos han confundido Wikipedia con WikiLeaks , [ 210 ] un sitio de almacenamiento de documentos filtrados conocido por la polémica del cablegate .
+Jimmy Wales , cofundador de Wikipedia , explicó que , cuando en 2006 WikiLeaks comenzó sus actividades , se presentó como la de los secretos .
+Cuando Wales fundó Wikipedia creó una organización llamada Wikia .
+Esta organización se encargó de registrar los dominios bajo el término Wiki , y permitió a WikiLeaks en sus comienzos la utilización del término Wiki y su dominio correspondiente .
+No obstante , actualmente de , los dominios adquiridos por WikiLeaks están a punto de caducar , y Jimmy Wales no tiene intención de renovar el contrato ya que , en sus propias palabras , no desea que Wikipedia se relacione con WikiLeaks .
+[ 211 ] === Manipulaciones y sesgo ===
+El proyecto cuenta con importantes subvenciones de multinacionales estadounidenses , de intereses capitalistas .
+[ 212 ] [ 213 ] Por otro lado , en opinión de César Rendueles , doctor en filosofía , profesor asociado de la Universidad Complutense de Madrid [ 214 ] y usuario de Wikipedia , todo [ en Wikipedia ] es mucho más doméstico de lo que alguna gente se imagina .
+En su opinión , la enciclopedia está controlada por todos aquellos que generosamente dedican su tiempo regularmente a la edición de artículos , y afirma que como resultado la enciclopedia refleja el perfil predominantemente conservador en muchos casos para la redacción de artículos , muestra el lado liberal , dando mayor énfasis en la libertad de contenido que en la cooperación del [ 215 ] [ 216 ] de quienes disponen de más tiempo libre .
+Concluye diciendo que una mayor presencia de la comunidad universitaria y escolar sería un auténtico soplo de aire fresco para la enciclopedia .
+[ 217 ] Opinión contraria a otros autores como Daniel Rodríguez Herrera , para quien la Wikipedia posee una clara tendencia izquierdista , lo cual se comprueba viendo los resúmenes de Stalin y otros dirigentes comunistas que no son llamados en ningún momento dictadores , solamente líderes .
+[ 218 ] Algunas empresas han intentado en repetidas ocasiones manipular la información que aparece sobre ellas en Wikipedia enfatizando los aspectos positivos y suavizando o eliminando los negativos con el fin de mejorar su imagen corporativa .
+Por ejemplo , Microsoft eliminó un párrafo donde aparecían los errores de su consola Xbox 360 , y el consorcio petrolífero borró todo un texto sobre biodiésel .
+En 2013 el diario económico Expansión denunció las acciones de algunas de las principales empresas españolas para manipular su historial o alterar favorablemente las biografías de sus directivos .
+[ 219 ] Cambios de este tipo pueden ser detectados con la utilización de una herramienta llamada WikiScanner .
+[ 220 ] Otras críticas , además de en su precisión , han estado refiriéndose a la violación de la intimidad de algunas personas , [ 221 ] [ 222 ] a la adición de imágenes interpretadas como pornografía infantil , [ 223 ] [ 224 ] la escasa certeza en las entradas sobre temas de salud , [ 225 ] o a la creación de artículos biográficos sobre animales .
+Algunas denuncias llegaron a ser muy notorias y graves como el uso del escudo perteneciente a la Oficina Federal de Investigación en uno de sus artículos .
+[ 226 ] Un tema de controversia en ciertos medios es la labor de algunos administradores bibliotecarios , que se extralimitan en sus funciones bloqueando a otros usuarios y generando enfados , razón por la cual varios quieren mantener su incógnito por miedo a represalias .
+[ 197 ] También el ambiente de Wikipedia permite e incluso fomenta ese tipo de actuaciones ; pues , según Arias Maldonado , [ 227 ] una de las partes divertidas de Wikipedia es conspirar .
+Una evidencia por parte de FiveThirtyEight sobre los 100 artículos más editados de la versión en inglés muestra que los temas más controvertidos para la Wikipedia son los deportes , personajes del entretenimiento norteamericano , política y religión .
+En el top de la lista están los artículos sobre Estados Unidos , Michael Jackson , Jesucristo y los luchadores de la WWE , el último mucho mayor que el artículo del Real Madrid .
+[ 228 ] === Género ===
+Un estudio sobre el tratamiento desigual en los contenidos de la mayor enciclopedia de la web dio cuenta de que solo las grandes mujeres están bien representadas en la enciclopedia y los artículos sobre ellas presentan desigualdades de género .
+[ 234 ] [ 235 ] === Reducción en el número de visitas y editores ===
+A pesar de que cada vez más personas se informan en Wikipedia , este sitio web ha visto una baja significativa en sus visitas en el buscador Google , unos 250 millones en tres meses ( de 2015 ) que representa cerca del 11 , así lo informó un estudio de Similar Web , empresa británica de tecnología e información y luego corroborado por el cofundador de Wikipedia , Jimmy Wales .
+[ 237 ] Una de las razones de esa brusca caída puede ser que el buscador da una referencia directa a Wikipedia al lado derecho de la pantalla , lo que quitaría la necesidad de cliquear el enlace .
+[ 238 ] En un informe de Hackernoon , sitio web estadunidense en publicación de tecnología , Wikipedia había perdido en 2019 millones de páginas vistas .
+En enero de 2020 , había perdido un 14 de su tráfico en comparación con el mismo mes de 2019 .
+El principal culpable de esta bajada es el buscador de Google , que entre sus muchas funciones y herramientas , muestra a menudo extractos de Wikipedia cuando se hace una búsqueda y suele dar prioridad a los vídeos de YouTube , plataforma de su propiedad .
+[ 239 ] Similar situación está ocurriendo debido a los asistentes de Alexa y Siri .
+[ 240 ] Este sistema de búsquedas tan de moda se llama búsqueda sin y hace que Wikipedia pierda visitas a gran velocidad .
+Según Ortega Soto ( 2009 ) las principales versiones de Wikipedia ( inglesa , alemana , japonesa , española , etc ) estaban perdiendo usuarios porque los nuevos editores no compensaban en número a los veteranos que abandonaban la edición .
+Además había disminuido el tiempo medio que un editor tardaba en desistir .
+[ 241 ] Esta tendencia la confirmó en 2013 Tom Simonite , del Instituto Tecnológico de Massachusetts ( MIT ) , cuando confirmaba que la propia Fundación Wikimedia reconocía que la enciclopedia en línea tenía problemas ante la carencia cada vez más acusada de voluntarios .
+[ 198 ] En contraste , el análisis de tendencias publicado en The Economist presenta a Wikipedia en otros idiomas ( Wikipedia no inglesa ) como exitosa en retener a sus editores activos de manera renovable y sostenida , con un número relativamente constante .
+[ 242 ] == Investigación científica ==
+En 2010 , Alison J .
+Head y Michael Eisenberg publicaron una investigación sobre el uso que dan a la Wikipedia los estudiantes universitarios .
+El estudio tuvo lugar en siete universidades de Estados Unidos , y tenía como objetivo mostrar con qué frecuencia , motivos y en qué momento de un trabajo académico , se utiliza esta enciclopedia .
+El resultado la posicionó como la sexta fuente de consulta y la segunda no académica ; la enciclopedia predilecta para obtener un trasfondo general sobre un tema .
+Se ubicó por delante de sitios gubernamentales , compañeros de clase , colecciones personales de libros , y la Enciclopedia Británica , que quedó relegada al undécimo puesto ( 61 ) .
+[ 243 ] [ 244 ] Un estudio de la Universidad Carolina de 2018 concluyó que Wikipedia es el recursos educativo abierto más utilizado por estudiantes , y argumentó que las instituciones educativas deberían centrar su atención en ello ( por ejemplo , apoyando wikipedistas residentes ) .
+[ 245 ] == Véase también ==
+== Notas ==
+== Referencias ==
+== Bibliografía ==
+Assouline , Pierre ; Gourdain , Pierre ; , Florence ; , Béatrice ; Soulas , Delphine ; von Droste zu Hülshoff , Tassio ( 2008 ) .
+Revolución Wikipedia .
+Traducción de Magali Martínez Solimán .
+Madrid : Alianza Editorial .
+ISBN .
+Devouard , Florence ; Paumier , Guillaume ( 2010 ) .
+Viquipèdia .
+Descobrir , utilitzar , contribuir .
+Barcelona : Edicions dels .
+ISBN .
+Ortega Soto , José Felipe ( 2009 ) .
+Wikipedia : A quantitative analysis .
+Móstoles : Universidad Rey Juan Carlos .
+Lih , Andrew ( 2004 ) .
+Wikipedia as Participatory Journalism : Reliable Sources
+Metrics for evaluating collaborative media as a news resource ( en inglés ) .
+Austin : Universidad de Texas .
+Viégas , Fernanda B ; Wattenberg , Martin ; Dave , Kushal ( 2004 ) .
+Studying Cooperation and Conflict between Authors with history flow Visualizations .
+Viena : ACM .
+ISBN .
+Archivado desde el original el 13 de abril de 2016 .
+Priedhorsky , Reid ; Chen , Jilin ; Lam , Tony ; Panciera , Katherine ; Terveen , Loren ; Riedl , John ( 2007 ) .
+Creating , Destroying , and Restoring Value in Wikipedia .
+Sanibel : ACM .
+Reagle , Joseph ; Koerner , Jakie ( 2020 ) .
+Wikipedia 20 : Stories of an Incomplete Revolution .
+MIT Press .
+ISBN 9780262538176 .
+Consultado el 12 de noviembre de 2020 .
+== Enlaces externos ==
+Meta contiene información sobre Wikipedia .
+Wikisource contiene obras originales de o sobre Wikipedia .
+Wikcionario tiene definiciones y otra información sobre Wikipedia .
+Estadísticas actualizadas de Wikipedia en sus distintos idiomas .

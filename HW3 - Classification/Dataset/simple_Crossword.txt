@@ -1,0 +1,32 @@
+A crossword , or crossword puzzle , is a popular type of puzzle that uses words .
+They are usually found in newspapers , magazines , and in books which contain a collection of them .
+They can also be played over the Internet and using mobile apps .
+The first crossword puzzle was created by Arthur Wynne , a journalist from Liverpool .
+It first appeared in the December 21 , 1913 issue of the New York World .
+Today , there are many newspapers and magazines that are known for their crossword puzzles , such as the New York Times .
+A different crossword is typically printed every day or in every issue , and the answer ( or solution ) is either found somewhere else or often is not seen until the next day or issue .
+== How to play ==
+A traditional crossword is made up of black and white squares , called a grid .
+All the white squares appear in horizontal rows or vertical columns , but are not always separated with black squares .
+Another way to say this is that every white square must have at least one other white square touching it on any side .
+The kind of crossword that appears in newspapers and magazines , such as the one in the image , often has lots of white squares beside each other .
+The goal of solving the puzzle is to write different words , , in the white squares .
+Next to the grid is a list of clues .
+The answer to each clue is a word or sometimes a phrase .
+The place in the grid where the answer to each clue should go is shown by a number and the direction in which the answer appears , for example , 1 Across or 15 Down .
+Many computer programs have been created to find the answers to these clues .
+There are many types of crosswords .
+Straight ( or Quick ) crosswords are usually made up of simple definitions - which means that other words are used to describe the answer .
+Some crosswords , called cryptic crosswords , use riddles and word play and are usually more difficult than straight crosswords .
+== Example ==
+Here is a small example of a straight crossword : === Across ===
+1 .
+Sheep sound ( 3 ) 3 .
+Neither liquid nor gas ( 5 ) 5 .
+Humour ( 3 ) === Down ===
+1 .
+Road passenger transport ( 3 ) 2 .
+Permit ( 5 ) 4 .
+Short for Dorothy ( 3 ) The solution ( answer ) to this crossword is : == Related pages ==
+Word games Puzzles Sudoku == Other websites ==
+The Crossword Centre Daily crossword puzzles , Online crossword help and Crossword solutions Online crossword help

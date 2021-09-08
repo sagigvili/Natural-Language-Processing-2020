@@ -1,0 +1,34 @@
+S -> NP VP
+NP -> D N
+NP -> NP PP
+PP -> P NP
+VP -> V NP
+VP -> V PP
+VP -> VP PP
+VP -> V S
+D -> a
+D -> the
+D -> this
+D -> that
+D -> some
+N -> flight
+N -> city
+N -> meal
+N -> airport
+N -> pilot
+N -> stop
+N -> cake
+N -> cream
+N -> passenger
+N -> stops
+P -> from
+P -> in
+P -> on
+P -> to
+P -> with
+V -> flies
+V -> goes
+V -> left
+V -> says
+V -> serves
+V -> stops

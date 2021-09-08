@@ -1,0 +1,434 @@
+A tropical cyclone is a rapidly rotating storm system characterized by a center , a closed atmospheric circulation , strong winds , and a spiral arrangement of thunderstorms that produce heavy rain or squalls .
+Depending on its location and strength , a tropical cyclone is referred to by different names , including hurricane , typhoon , tropical storm , cyclonic storm , tropical depression , and simply cyclone .
+A hurricane is a tropical cyclone that occurs in the Atlantic Ocean and northeastern Pacific Ocean , and a typhoon occurs in the northwestern Pacific Ocean ; in the south Pacific or Indian Ocean , comparable storms are referred to simply as tropical cyclones or severe cyclonic storms .
+Tropical refers to the geographical origin of these systems , which form almost exclusively over tropical seas .
+Cyclone refers to their winds moving in a circle , whirling round their central clear eye , with their winds blowing counterclockwise in the Northern Hemisphere and clockwise in the Southern Hemisphere .
+The opposite direction of circulation is due to the Coriolis effect .
+Tropical cyclones typically form over large bodies of relatively warm water .
+They derive their energy through the evaporation of water from the ocean surface , which ultimately recondenses into clouds and rain when moist air rises and cools to saturation .
+This energy source differs from that of cyclonic storms , such as and European windstorms , which are fueled primarily by horizontal temperature contrasts .
+Tropical cyclones are typically between 100 and km ( 62 and mi ) in diameter .
+The strong rotating winds of a tropical cyclone are a result of the conservation of angular momentum imparted by the Earth rotation as air flows inwards toward the axis of rotation .
+As a result , they rarely form within of the equator .
+Tropical cyclones are almost unknown in the South Atlantic due to a consistently strong wind shear and a weak Intertropical Convergence Zone .
+Conversely , the African easterly jet and areas of atmospheric instability give rise to cyclones in the Atlantic Ocean and Caribbean Sea , while cyclones near Australia owe their genesis to the Asian monsoon and Western Pacific Warm Pool .
+The primary energy source for these storms is warm ocean waters .
+These storms are therefore typically strongest when over or near water , and weaken quite rapidly over land .
+This causes coastal regions to be particularly vulnerable to the impact of a tropical cyclone , compared to inland regions .
+Coastal damage may be caused by strong winds and rain , high waves ( due to winds ) , storm surges ( due to wind and severe pressure changes ) , and the potential of spawning tornadoes .
+Tropical cyclones also draw in air from a large can be a vast area for the most severe concentrate the water content of that air ( made up from atmospheric moisture and moisture evaporated from water ) into precipitation over a much smaller area .
+This continual replacement of air by new air after its moisture has fallen as rain , may cause or extremely heavy rain up to 40 kilometers ( 25 mi ) from the coastline , far beyond the amount of water that the local atmosphere holds at any one time .
+This in turn can lead to river flooding , overland flooding , and a general overwhelming of local water control structures across a large area .
+Although their effects on human populations can be devastating , tropical cyclones can relieve drought conditions .
+They also carry heat and energy away from the tropics and transport it towards temperate latitudes , which could play an important role in regulating global climate .
+== Physical structure ==
+Tropical cyclones are areas of relatively low pressure in the troposphere , with the largest pressure perturbations occurring at low altitudes near the surface .
+On Earth , the pressures recorded at the centers of tropical cyclones are among the lowest ever observed at sea level .
+The environment near the center of tropical cyclones is warmer than the surroundings at all altitudes , thus they are characterized as warm core systems .
+=== Wind field ===
+The wind field of a tropical cyclone is characterized by air rotating rapidly around a center of circulation while also flowing radially inwards .
+At the outer edge of the storm , air may be nearly calm ; however , due to the Earth rotation , the air has absolute angular momentum .
+As air flows radially inward , it begins to rotate cyclonically ( in the Northern Hemisphere , and clockwise in the Southern Hemisphere ) to conserve angular momentum .
+At an inner radius , air begins to ascend to the top of the troposphere .
+This radius is typically coincident with the inner radius of the eyewall , and has the strongest winds of the storm ; consequently , it is known as the radius of maximum winds .
+Once aloft , air flows away from the storm center , producing a shield of cirrus previously mentioned processes result in a nearly axisymmetric wind field : Wind speeds are low at the center , increase rapidly moving outwards to the radius of maximum winds , and then decay more gradually with radius to large radii .
+However , the wind field often exhibits additional spatial and temporal variability due to the effects of localized processes , such as thunderstorm activity and horizontal flow instabilities .
+In the vertical direction , winds are strongest near the surface and decay with height within the troposphere .
+=== Eye and center ===
+At the center of a mature tropical cyclone , air sinks rather than rises .
+For a sufficiently strong storm , air may sink over a layer deep enough to suppress cloud formation , thereby creating a clear eye .
+Weather in the eye is normally calm and free of clouds , although the sea may be extremely violent .
+The eye is normally circular and is typically km ( mi ) in diameter , though eyes as small as 3 km ( mi ) and as large as 370 km ( 230 mi ) have been cloudy outer edge of the eye is called the eyewall .
+The eyewall typically expands outward with height , resembling an arena football stadium ; this phenomenon is sometimes referred to as the stadium effect .
+The eyewall is where the greatest wind speeds are found , air rises most rapidly , clouds reach their highest altitude , and precipitation is the heaviest .
+The heaviest wind damage occurs where a tropical cyclone eyewall passes over a weaker storm , the eye may be obscured by the central dense overcast , which is the cirrus shield that is associated with a concentrated area of strong thunderstorm activity near the center of a tropical eyewall may vary over time in the form of eyewall replacement cycles , particularly in intense tropical cyclones .
+Outer rainbands can organize into an outer ring of thunderstorms that slowly moves inward , which is believed to rob the primary eyewall of moisture and angular momentum .
+When the primary eyewall weakens , the tropical cyclone weakens temporarily .
+The outer eyewall eventually replaces the primary one at the end of the cycle , at which time the storm may return to its original intensity .
+=== Rapid intensification ===
+On occasion , tropical cyclones may undergo a process known as rapid intensification , a period in which the maximum sustained winds of a tropical cyclone increase by 30 knots within 24 hours .
+For rapid intensification to occur , several conditions must be in place .
+Water temperatures must be extremely high ( near or above 30 , 86 ) , and water of this temperature must be sufficiently deep such that waves do not upwell cooler waters to the surface .
+On the other hand , Tropical Cyclone Heat Potential is one of such subsurface oceanographic parameters influencing the cyclone intensity .
+Wind shear must be low ; when wind shear is high , the convection and circulation in the cyclone will be disrupted .
+Usually , an anticyclone in the upper layers of the troposphere above the storm must be present as extremely low surface pressures to develop , air must be rising very rapidly in the eyewall of the storm , and an anticyclone helps channel this air away from the cyclone efficiently .
+=== Size ===
+There are a variety of metrics commonly used to measure storm size .
+The most common metrics include the radius of maximum wind , the radius of wind ( .
+gale force ) , the radius of outermost closed isobar ( ROCI ) , and the radius of vanishing wind .
+An additional metric is the radius at which the cyclone relative vorticity field decreases to Earth , tropical cyclones span a large range of sizes , from kilometres ( mi ) as measured by the radius of vanishing wind .
+They are largest on average in the northwest Pacific Ocean basin and smallest in the northeastern Pacific Ocean basin .
+If the radius of outermost closed isobar is less than two degrees of latitude ( 222 km ( 138 mi ) ) , then the cyclone is very small or a midget .
+A radius of latitude degrees ( km ( mi ) ) is considered average sized .
+Very large tropical cyclones have a radius of greater than 8 degrees ( 888 km ( 552 mi ) ) .
+Observations indicate that size is only weakly correlated to variables such as storm intensity ( .
+maximum wind speed ) , radius of maximum wind , latitude , and maximum potential plays an important role in modulating damage caused by a storm .
+All else equal , a larger storm will impact a larger area for a longer period of time .
+Additionally , a larger wind field can generate higher storm surge due to the combination of longer wind fetch , longer duration , and enhanced wave upper circulation of strong hurricanes extends into the tropopause of the atmosphere , which at low latitudes is metres ( ft ) .
+== Physics and energetics ==
+The wind field in a tropical cyclone can be separated into two components : a primary circulation and a secondary circulation .
+The primary circulation is the rotational part of the flow ; it is purely circular .
+The secondary circulation is the overturning part of the flow ; it is in the radial and vertical directions .
+The primary circulation is larger in magnitude , dominating the surface wind field , and is responsible for the majority of the damage a storm causes , while the secondary circulation is slower but governs the energetics of the storm .
+=== Secondary circulation : a Carnot heat engine === A tropical cyclone primary energy source is heat from the evaporation of water from the surface of a warm ocean , previously heated by sunshine .
+The energetics of the system may be idealized as an atmospheric Carnot heat engine .
+First , inflowing air near the surface acquires heat primarily via evaporation of water ( .
+latent heat ) at the temperature of the warm ocean surface ( during evaporation , the ocean cools and the air warms ) .
+Second , the warmed air rises and cools within the eyewall while conserving total heat content ( latent heat is simply converted to sensible heat during condensation ) .
+Third , air outflows and loses heat via infrared radiation to space at the temperature of the cold tropopause .
+Finally , air subsides and warms at the outer edge of the storm while conserving total heat content .
+The first and third legs are nearly isothermal , while the second and fourth legs are nearly isentropic .
+This overturning flow is known as the secondary circulation .
+The Carnot perspective provides an upper bound on the maximum wind speed that a storm can attain .
+Scientists estimate that a tropical cyclone releases heat energy at the rate of 50 to 200 exajoules ( 1018 J ) per day , equivalent to about 1 PW ( 1015 watt ) .
+This rate of energy release is equivalent to 70 times the world energy consumption of humans and 200 times the worldwide electrical generating capacity , or to exploding a nuclear bomb every 20 minutes .
+=== Primary circulation : rotating winds === The primary rotating flow in a tropical cyclone results from the conservation of angular momentum by the secondary circulation .
+Absolute angular momentum on a rotating planet M M is given by M = 1 2 f r 2 v r 1 2 2 where f f is the Coriolis parameter , v v is the azimuthal ( .
+rotating ) wind speed , and r r is the radius to the axis of rotation .
+The first term on the right hand side is the component of planetary angular momentum that projects onto the local vertical ( .
+the axis of rotation ) .
+The second term on the right hand side is the relative angular momentum of the circulation itself with respect to the axis of rotation .
+Because the planetary angular momentum term vanishes at the equator ( where f = 0 ) , tropical cyclones rarely form within of the air flows radially inward at low levels , it begins to rotate cyclonically in order to conserve angular momentum .
+Similarly , as rapidly rotating air flows radially outward near the tropopause , its cyclonic rotation decreases and ultimately changes sign at large enough radius , resulting in an .
+The result is a vertical structure characterized by a strong cyclone at low levels and a strong near the tropopause ; from thermal wind balance , this corresponds to a system that is warmer at its center than in the surrounding environment at all altitudes ( .
+) .
+From hydrostatic balance , the warm core translates to lower pressure at the center at all altitudes , with the maximum pressure drop located at the surface .
+=== Maximum potential intensity ===
+Due to surface friction , the inflow only partially conserves angular momentum .
+Thus , the sea surface lower boundary acts as both a source ( evaporation ) and sink ( friction ) of energy for the system .
+This fact leads to the existence of a theoretical upper bound on the strongest wind speed that a tropical cyclone can attain .
+Because evaporation increases linearly with wind speed ( just as climbing out of a pool feels much colder on a windy day ) , there is a positive feedback on energy input into the system known as the Surface Heat Exchange ( WISHE ) feedback .
+This feedback is offset when frictional dissipation , which increases with the cube of the wind speed , becomes sufficiently large .
+This upper bound is called the maximum potential intensity , v p p , and is given by v p 2 = C k C d T s T o T o Δ k p 2 = k d s o o k where T s s is the temperature of the sea surface , T o o is the temperature of the outflow ( [ K ] ) , Δ k k is the enthalpy difference between the surface and the overlying air ( [ ] ) , and C k k and C d d are the surface exchange coefficients ( dimensionless ) of enthalpy and momentum , respectively .
+The enthalpy difference is taken as Δ k = k s k s , where k s s is the saturation enthalpy of air at sea surface temperature and pressure and k k is the enthalpy of boundary layer air overlying the surface .
+The maximum potential intensity is predominantly a function of the background environment alone ( .
+without a tropical cyclone ) , and thus this quantity can be used to determine which regions on Earth can support tropical cyclones of a given intensity , and how these regions may evolve in time .
+Specifically , the maximum potential intensity has three components , but its variability in space and time is due predominantly to the variability in the enthalpy difference component Δ k k .
+Derivation A tropical cyclone may be viewed as a heat engine that converts input heat energy from the surface into mechanical energy that can be used to do mechanical work against surface friction .
+At equilibrium , the rate of net energy production in the system must equal the rate of energy loss due to frictional dissipation at the surface , .
+W i n = W o u t in out The rate of energy loss per unit surface area from surface friction , W o u t out , is given by W o u t = C d ρ u 3 out d u 3 where ρ is the density of air ( [ ] ) and u u is the near surface wind speed ( [ ] ) .
+The rate of energy production per unit surface area , W i n in is given by W i n = ϵ Q i n in in where ϵ is the heat engine efficiency and Q i n in is the total rate of heat input into the system per unit surface area .
+Given that a tropical cyclone may be idealized as a Carnot heat engine , the Carnot heat engine efficiency is given by ϵ = T s T o T s = s o s Heat ( enthalpy ) per unit mass is given by k = C p T L v q p v q where C p p is the heat capacity of air , T T is air temperature , L v v is the latent heat of vaporization , and q q is the concentration of water vapor .
+The first component corresponds to sensible heat and the second to latent heat .
+There are two sources of heat input .
+The dominant source is the input of heat at the surface , primarily due to evaporation .
+The bulk aerodynamic formula for the rate of heat input per unit area at the surface , Q i n : k in : k , is given by Q i n : k = C k ρ u Δ k in : k k u k where Δ k = k s k s represents the enthalpy difference between the ocean surface and the overlying air .
+The second source is the internal sensible heat generated from frictional dissipation ( equal to W o u t out ) , which occurs near the surface within the tropical cyclone and is recycled to the system .
+Q i n : f r i c t i o n = C d ρ u 3 in : friction d u 3 Thus , the total rate of net energy production per unit surface area is given by W i n = T s T o T s ( C k ρ u Δ k C d ρ u 3 ) in = s o s ( k u d u 3 ) Setting W i n = W o u t in out and taking u v u v ( .
+the rotational wind speed is dominant ) leads to the solution for v p p given above .
+This derivation assumes that total energy input and loss within the system can be approximated by their values at the radius of maximum wind .
+The inclusion of Q i n : f r i c t i o n in : friction acts to multiply the total heat input rate by the factor T s T o s o .
+Mathematically , this has the effect of replacing T s s with T o o in the denominator of the Carnot efficiency .
+An alternative definition for the maximum potential intensity , which is mathematically equivalent to the above formulation , is v p = T s T o C k C d ( C A P E s C A P E b ) m p = s o k d ( s b ) m where CAPE stands for the Convective Available Potential Energy , C A P E s s is the CAPE of an air parcel lifted from saturation at sea level in reference to the environmental sounding , C A P E b b is the CAPE of the boundary layer air , and both quantities are calculated at the radius of maximum wind .
+Characteristic values and variability on Earth On Earth , a characteristic temperature for T s s is 300 K and for T o o is 200 K , corresponding to a Carnot efficiency of ϵ = 1 3 .
+The ratio of the surface exchange coefficients , C k C d k d , is typically taken to be 1 .
+However , observations suggest that the drag coefficient C d d varies with wind speed and may decrease at high wind speeds within the boundary layer of a mature hurricane .
+Additionally , C k k may vary at high wind speeds due to the effect of sea spray on evaporation within the boundary characteristic value of the maximum potential intensity , v p p , is 80 metres per second ( 180 mph ; 290 ) .
+However , this quantity varies significantly across space and time , particularly within the seasonal cycle , spanning a range of 0 to 100 metres per second ( 0 to 224 mph ; 0 to 360 ) .
+This variability is primarily due to variability in the surface enthalpy disequilibrium ( Δ k k ) as well as in the thermodynamic structure of the troposphere , which are controlled by the dynamics of the tropical climate .
+These processes are modulated by factors including the sea surface temperature ( and underlying ocean dynamics ) , background wind speed , and the vertical structure of atmospheric radiative heating .
+The nature of this modulation is complex , particularly on climate ( decades or longer ) .
+On shorter , variability in the maximum potential intensity is commonly linked to sea surface temperature perturbations from the tropical mean , as regions with relatively warm water have thermodynamic states much more capable of sustaining a tropical cyclone than regions with relatively cold water .
+However , this relationship is indirect via the dynamics of the tropics ; the direct influence of the absolute sea surface temperature on v p p is weak in comparison .
+=== Interaction with the upper ocean ===
+The passage of a tropical cyclone over the ocean causes the upper layers of the ocean to cool substantially , which can influence subsequent cyclone development .
+This cooling is primarily caused by mixing of cold water from deeper in the ocean with the warm surface waters .
+This effect results in a negative feedback process that can inhibit further development or lead to weakening .
+Additional cooling may come in the form of cold water from falling raindrops ( this is because the atmosphere is cooler at higher altitudes ) .
+Cloud cover may also play a role in cooling the ocean , by shielding the ocean surface from direct sunlight before and slightly after the storm passage .
+All these effects can combine to produce a dramatic drop in sea surface temperature over a large area in just a few days .
+Conversely , the mixing of the sea can result in heat being inserted in deeper waters , with potential effects on global climate .
+== Major basins and related warning centers ==
+The majority of tropical cyclones each year form in one of seven tropical cyclone basins , which are monitored by a variety of meteorological services and warning centres .
+Ten of these warning centres worldwide are designated as either Regional Specialized Meteorological Centre or a Tropical Cyclone Warning Centre by the World Meteorological Organisation tropical cyclone programme .
+These warning centres issue advisories which provide basic information and cover a systems present , forecast position , movement and intensity , in their designated areas of responsibility .
+Meteorological services around the world are generally responsible for issuing warnings for their own country , however , there are exceptions , as the United States National Hurricane Center and Fiji Meteorological Service issue alerts , watches and warnings for various island nations in their areas of responsibility .
+The United States Joint Typhoon Warning Center ( JTWC ) and Fleet Weather Center ( FWC ) also publicly issue warnings , about tropical cyclones on behalf of the United States Government .
+The Brazilian Navy Hydrographic Center names South Atlantic tropical cyclones , however the South Atlantic is not a major basin , and not an official basin according to the WMO .
+== Formation ==
+Worldwide , tropical cyclone activity peaks in late summer , when the difference between temperatures aloft and sea surface temperatures is the greatest .
+However , each particular basin has its own seasonal patterns .
+On a worldwide scale , May is the least active month , while September is the most active month .
+November is the only month in which all the tropical cyclone basins are in season .
+=== Times ===
+In the Northern Atlantic Ocean , a distinct cyclone season occurs from June 1 to November 30 , sharply peaking from late August through September .
+The statistical peak of the Atlantic hurricane season is September 10 .
+The Northeast Pacific Ocean has a broader period of activity , but in a similar time frame to the Atlantic .
+The Northwest Pacific sees tropical cyclones , with a minimum in February and March and a peak in early September .
+In the North Indian basin , storms are most common from April to December , with peaks in May and November .
+In the Southern Hemisphere , the tropical cyclone year begins on July 1 and runs all encompassing the tropical cyclone seasons , which run from November 1 until the end of April , with peaks in to early March .
+=== Factors ===
+The formation of tropical cyclones is the topic of extensive ongoing research and is still not fully understood .
+While six factors appear to be generally necessary , tropical cyclones may occasionally form without meeting all of the following conditions .
+In most situations , water temperatures of at least are needed down to a depth of at least 50 m ( 160 ft ) ; waters of this temperature cause the overlying atmosphere to be unstable enough to sustain convection and thunderstorms .
+For tropical transitioning cyclones ( .
+Hurricane Ophelia ( 2017 ) ) a water temperature of at least has been factor is rapid cooling with height , which allows the release of the heat of condensation that powers a tropical cyclone .
+High humidity is needed , especially in the troposphere ; when there is a great deal of moisture in the atmosphere , conditions are more favorable for disturbances to develop .
+Low amounts of wind shear are needed , as high shear is disruptive to the storm circulation .
+Tropical cyclones generally need to form more than 555 km ( 345 mi ) or five degrees of latitude away from the equator , allowing the Coriolis effect to deflect winds blowing towards the low pressure center and creating a circulation .
+Lastly , a formative tropical cyclone needs a preexisting system of disturbed weather .
+Tropical cyclones will not form spontaneously .
+and westerly wind bursts associated with the oscillation can create favorable conditions for tropical cyclogenesis by initiating tropical disturbances .
+=== Locations ===
+Most tropical cyclones form in a worldwide band of thunderstorm activity near the equator , referred to as the Intertropical Front ( ITF ) , the Intertropical Convergence Zone ( ITCZ ) , or the monsoon trough .
+Another important source of atmospheric instability is found in tropical waves , which contribute to the development of about 85 of intense tropical cyclones in the Atlantic Ocean and become most of the tropical cyclones in the Eastern Pacific .
+The majority forms between 10 and 30 degrees of latitude away of the equator , and 87 forms no farther away than 20 degrees north or south .
+Because the Coriolis effect initiates and maintains their rotation , tropical cyclones rarely form or move within 5 degrees of the equator , where the effect is weakest .
+However , it is still possible for tropical systems to form within this boundary as Tropical Storm Vamei and Cyclone Agni did in 2001 and 2004 , respectively .
+== Movement ==
+The movement of a tropical cyclone ( .
+its track ) is typically approximated as the sum of two terms : steering by the background environmental wind and beta drift .
+=== Environmental steering ===
+Environmental steering is the dominant term .
+Conceptually , it represents the movement of the storm due to prevailing winds and other wider environmental conditions , similar to leaves carried along by a stream .
+Physically , the winds , or flow field , in the vicinity of a tropical cyclone may be treated as having two parts : the flow associated with the storm itself , and the background flow of the environment in which the storm takes place .
+In this way , tropical cyclone motion may be represented to simply as advection of the storm by the local environmental flow .
+This environmental flow is termed the steering flow .
+Climatologically , tropical cyclones are steered primarily westward by the trade winds on the equatorial side of the subtropical persistent area over the world subtropical oceans .
+In the tropical North Atlantic and Northeast Pacific oceans , the trade winds steer tropical easterly waves westward from the African coast toward the Caribbean Sea , North America , and ultimately into the central Pacific Ocean before the waves dampen out .
+These waves are the precursors to many tropical cyclones within this region .
+In contrast , in the Indian Ocean and Western Pacific in both hemispheres , tropical cyclogenesis is influenced less by tropical easterly waves and more by the seasonal movement of the Convergence Zone and the monsoon trough .
+Additionally , tropical cyclone motion can be influenced by transient weather systems , such as extratropical cyclones .
+=== Beta drift ===
+In addition to environmental steering , a tropical cyclone will tend to drift slowly poleward and westward , a motion known as beta drift .
+This motion is due to the superposition of a vortex , such as a tropical cyclone , onto an environment in which the Coriolis force varies with latitude , such as on a sphere or beta plane .
+It is induced indirectly by the storm itself , the result of a feedback between the cyclonic flow of the storm and its environment .
+Physically , the cyclonic circulation of the storm advects environmental air poleward east of center and equatorial west of center .
+Because air must conserve its angular momentum , this flow configuration induces a cyclonic gyre equatorward and westward of the storm center and an anticyclonic gyre poleward and eastward of the storm center .
+The combined flow of these gyres acts to advect the storm slowly poleward and westward .
+This effect occurs even if there is zero environmental flow .
+=== Multiple storm interaction ===
+A third component of motion that occurs relatively infrequently involves the interaction of multiple tropical cyclones .
+When two cyclones approach one another , their centers will begin orbiting cyclonically about a point between the two systems .
+Depending on their separation distance and strength , the two vortices may simply orbit around one another or else may spiral into the center point and merge .
+When the two vortices are of unequal size , the larger vortex will tend to dominate the interaction , and the smaller vortex will orbit around it .
+This phenomenon is called the Fujiwhara effect , after Sakuhei Fujiwhara .
+=== Interaction with the westerlies ===
+Though a tropical cyclone typically moves from east to west in the tropics , its track may shift poleward and eastward either as it moves west of the subtropical ridge axis or else if it interacts with the flow , such as the jet stream or an extratropical cyclone .
+This motion , termed recurvature , commonly occurs near the western edge of the major ocean basins , where the jet stream typically has a poleward component and extratropical cyclones are common .
+An example of tropical cyclone recurvature was Typhoon Ioke in 2006 .
+=== Landfall ===
+The landfall of a tropical cyclone occurs when a storm surface center ( eye if a stronger cyclone ) moves over a coastline .
+Storm conditions may be experienced on the coast and inland hours before landfall ; in fact , a tropical cyclone can launch its strongest winds over land , yet not make landfall .
+NOAA uses the term direct hit to describe when a location ( on the left side of the eye ) falls within the radius of maximum winds ( or twice that radius if on the right side ) , whether or not the hurricane eye made landfall .
+=== Changes caused by El Oscillation ===
+Most tropical cyclones form on the side of the subtropical ridge closer to the equator , then move poleward past the ridge axis before recurving into the main belt of the Westerlies .
+When the subtropical ridge position shifts due to El Niño , so will the preferred tropical cyclone tracks .
+Areas west of Japan and Korea tend to experience much fewer tropical cyclone impacts during El Niño and neutral years .
+During El Niño years , the break in the subtropical ridge tends to lie near which would favor the Japanese archipelago .
+During El Niño years , Guam chance of a tropical cyclone impact is more likely than of the average .
+The tropical Atlantic Ocean experiences depressed activity due to increased vertical wind shear across the region during El Niño years .
+During La Niña years , the formation of tropical cyclones , along with the subtropical ridge position , shifts westward across the western Pacific Ocean , which increases the landfall threat to China and much greater intensity in the Philippines .
+== Dissipation ==
+=== Factors ===
+A tropical cyclone can cease to have tropical characteristics in several different ways .
+One such way is if it moves over land , thus depriving it of the warm water it needs to power itself , quickly losing strength .
+Most strong storms lose their strength very rapidly after landfall and become disorganized areas of low pressure within a day or two , or evolve into extratropical cyclones .
+There is a chance a tropical cyclone could regenerate if it managed to get back over open warm water , such as with Hurricane Ivan and Hurricane Paulette .
+If it remains over mountains for even a short time , weakening will accelerate .
+Many storm fatalities occur in mountainous terrain , when diminishing cyclones unleash their moisture as torrential rainfall .
+This rainfall may lead to deadly floods and mudslides , as was the case with Hurricane Mitch around Honduras in October 1998 .
+Without warm surface water , the storm can not tropical cyclone can dissipate when it moves over waters significantly below .
+This will cause the storm to lose its tropical characteristics , such as a warm core with thunderstorms near the center , and become a remnant area .
+These remnant systems may persist for up to several days before losing their identity .
+This dissipation mechanism is most common in the eastern North Pacific .
+Weakening or dissipation can occur if it experiences vertical wind shear , causing the convection and heat engine to move away from the center ; this normally ceases development of a tropical cyclone .
+In addition , its interaction with the main belt of the Westerlies , by means of merging with a nearby frontal zone , can cause tropical cyclones to evolve into extratropical cyclones .
+This transition can take days .
+Even after a tropical cyclone is said to be extratropical or dissipated , it can still have tropical storm force ( or occasionally force ) winds and drop several inches of rainfall .
+In the Pacific Ocean and Atlantic Ocean , such cyclones of higher latitudes can be violent and may occasionally remain at hurricane or wind speeds when they reach the west coast of North America .
+These phenomena can also affect Europe , where they are known as European windstorms ; Hurricane Iris extratropical remnants are an example of such a windstorm from 1995 .
+A cyclone can also merge with another area of low pressure , becoming a larger area of low pressure .
+This can strengthen the resultant system , although it may no longer be a tropical cyclone .
+Studies in the 2000s have given rise to the hypothesis that large amounts of dust reduce the strength of tropical cyclones .
+=== Artificial dissipation ===
+In the 1960s and 1970s , the United States government attempted to weaken hurricanes through Project Stormfury by seeding selected storms with silver iodide .
+It was thought that the seeding would cause supercooled water in the outer rainbands to freeze , causing the inner eyewall to collapse and thus reducing the winds .
+The winds of Hurricane hurricane seeded in Project as much as 31 , but Debbie regained its strength after each of two seeding forays .
+In an earlier episode in 1947 , disaster struck when a hurricane east of Jacksonville , Florida promptly changed its course after being seeded , and smashed into Savannah , Georgia .
+Because there was so much uncertainty about the behavior of these storms , the federal government would not approve seeding operations unless the hurricane had a less than 10 chance of making landfall within 48 hours , greatly reducing the number of possible test storms .
+The project was dropped after it was discovered that eyewall replacement cycles occur naturally in strong hurricanes , casting doubt on the result of the earlier attempts .
+Today , it is known that silver iodide seeding is not likely to have an effect because the amount of supercooled water in the rainbands of a tropical cyclone is too approaches have been suggested over time , including cooling the water under a tropical cyclone by towing icebergs into the tropical oceans .
+Other ideas range from covering the ocean in a substance that inhibits evaporation , dropping large quantities of ice into the eye at very early stages of development ( so that the latent heat is absorbed by the ice , instead of being converted to kinetic energy that would feed the positive feedback loop ) , or blasting the cyclone apart with nuclear weapons .
+Project Cirrus even involved throwing dry ice on a cyclone .
+These approaches all suffer from one flaw above many others : tropical cyclones are simply too large and for any of the weakening techniques to be practical .
+== Effects ==
+Tropical cyclones out at sea cause large waves , heavy rain , flood and high winds , disrupting international shipping and , at times , causing shipwrecks .
+Tropical cyclones stir up water , leaving a cool wake behind them , which causes the region to be less favorable for subsequent tropical cyclones .
+On land , strong winds can damage or destroy vehicles , buildings , bridges , and other outside objects , turning loose debris into deadly flying projectiles .
+The storm surge , or the increase in sea level due to the cyclone , is typically the worst effect from landfalling tropical cyclones , historically resulting in 90 of tropical cyclone deaths .
+The broad rotation of a landfalling tropical cyclone , and vertical wind shear at its periphery , spawns tornadoes .
+Tornadoes can also be spawned as a result of eyewall mesovortices , which persist until the past two centuries , tropical cyclones have been responsible for the deaths of about million people worldwide .
+Large areas of standing water caused by flooding lead to infection , as well as contributing to illnesses .
+Crowded evacuees in shelters increase the risk of disease propagation .
+Tropical cyclones significantly interrupt infrastructure , leading to power outages , bridge destruction , and the hampering of reconstruction efforts .
+On average , the Gulf and east coasts of the United States suffer approximately US 5 billion ( 1995 US ) in cyclone damage every year .
+The majority ( 83 ) of tropical cyclone damage is caused by severe hurricanes , category 3 or greater .
+However , category 3 or greater hurricanes only account for about of cyclones that make landfall every cyclones take an enormous toll in lives and personal property , they may be important factors in the precipitation regimes of places they impact , as they may bring precipitation to otherwise dry regions .
+Tropical cyclones also help maintain the global heat balance by moving warm , moist tropical air to the middle latitudes and polar regions , and by regulating the thermohaline circulation through upwelling .
+The storm surge and winds of hurricanes may be destructive to structures , but they also stir up the waters of coastal estuaries , which are typically important fish breeding locales .
+Tropical cyclone destruction spurs redevelopment , greatly increasing local property hurricanes surge upon shore from the ocean , salt is introduced to many freshwater areas and raises the salinity levels too high for some habitats to withstand .
+Some are able to cope with the salt and recycle it back into the ocean , but others can not release the extra surface water quickly enough or do not have a large enough freshwater source to replace it .
+Because of this , some species of plants and vegetation die due to the excess salt .
+In addition , hurricanes can carry toxins and acids onto shore when they make landfall .
+The flood water can pick up the toxins from different spills and contaminate the land that it passes over .
+The toxins are very harmful to the people and animals in the area , as well as the environment around them .
+The flooding water can also spark many dangerous oil spills .
+=== Preparedness and response ===
+Hurricane preparedness encompasses the actions and planning taken before a tropical cyclone strikes to mitigate damage and injury from the storm .
+Knowledge of tropical cyclone impacts on an area help plan for future possibilities .
+Preparedness may involve preparations made by individuals as well as centralized efforts by governments or other organizations .
+Tracking storms during the tropical cyclone season helps individuals know current threats .
+Regional Specialized Meteorological Centers and Tropical Cyclone Warning Centers provide current information and forecasts to help individuals make the best decision possible .
+Hurricane response is the disaster response after a hurricane .
+Activities performed by hurricane responders include assessment , restoration , and demolition of buildings ; removal of debris and waste ; repairs to and maritime infrastructure ; and public health services including search and rescue operations .
+Hurricane response requires coordination between federal , tribal , state , local , and private entities .
+According to the National Voluntary Organizations Active in Disaster , potential response volunteers should affiliate with established organizations and should not , so that proper training and support can be provided to mitigate the danger and stress of response responders face many hazards .
+Hurricane responders may be exposed to chemical and biological contaminants including stored chemicals , sewage , human remains , and mold growth encouraged by flooding , as well as asbestos and lead that may be present in older buildings .
+Common injuries arise from falls from heights , such as from a ladder or from level surfaces ; from electrocution in flooded areas , including from backfeed from portable generators ; or from motor vehicle accidents .
+Long and irregular shifts may lead to sleep deprivation and fatigue , increasing the risk of injuries , and workers may experience mental stress associated with a traumatic incident .
+Additionally , heat stress is a concern as workers are often exposed to hot and humid temperatures , wear protective clothing and equipment , and have physically difficult tasks .
+== Observation and forecasting ==
+=== Observation ===
+Intense tropical cyclones pose a particular observation challenge , as they are a dangerous oceanic phenomenon , and weather stations , being relatively sparse , are rarely available on the site of the storm itself .
+In general , surface observations are available only if the storm is passing over an island or a coastal area , or if there is a nearby ship .
+measurements are usually taken in the periphery of the cyclone , where conditions are less catastrophic and its true strength can not be evaluated .
+For this reason , there are teams of meteorologists that move into the path of tropical cyclones to help evaluate their strength at the point of cyclones far from land are tracked by weather satellites capturing visible and infrared images from space , usually at to intervals .
+As a storm approaches land , it can be observed by Doppler weather radar .
+Radar plays a crucial role around landfall by showing a storm location and intensity every several situ measurements , in , can be taken by sending specially equipped reconnaissance flights into the cyclone .
+In the Atlantic basin , these flights are regularly flown by United States government hurricane hunters .
+The aircraft used are Hercules and Orions , both turboprop cargo aircraft .
+These aircraft fly directly into the cyclone and take direct and measurements .
+The aircraft also launch GPS dropsondes inside the cyclone .
+These sondes measure temperature , humidity , pressure , and especially winds between flight level and the ocean surface .
+A new era in hurricane observation began when a remotely piloted Aerosonde , a small drone aircraft , was flown through Tropical Storm Ophelia as it passed Virginia Eastern Shore during the 2005 hurricane season .
+A similar mission was also completed successfully in the western Pacific Ocean .
+This demonstrated a new way to probe the storms at low altitudes that human pilots seldom dare .
+=== Forecasting ===
+Because of the forces that affect tropical cyclone tracks , accurate track predictions depend on determining the position and strength of and areas , and predicting how those areas will change during the life of a tropical system .
+The deep layer mean flow , or average wind through the depth of the troposphere , is considered the best tool in determining track direction and speed .
+If storms are significantly sheared , use of wind speed measurements at a lower altitude , such as at the 70 kPa pressure surface ( metres or feet above sea level ) will produce better predictions .
+Tropical forecasters also consider smoothing out wobbles of the storm as it allows them to determine a more accurate trajectory .
+computers and sophisticated simulation software allow forecasters to produce computer models that predict tropical cyclone tracks based on the future position and strength of and systems .
+Combining forecast models with increased understanding of the forces that act on tropical cyclones , as well as with a wealth of data from satellites and other sensors , scientists have increased the accuracy of track forecasts over recent decades .
+However , scientists are not as skillful at predicting the intensity of tropical cyclones .
+The lack of improvement in intensity forecasting is attributed to the complexity of tropical systems and an incomplete understanding of factors that affect their development .
+New tropical cyclone position and forecast information is available at least every six hours from the various warning centers .
+== Classifications , terminology , and naming == === Nomenclature and intensity classifications ===
+Around the world , tropical cyclones are classified in different ways , based on the location , the structure of the system and its intensity .
+For example , within the Northern Atlantic and Eastern Pacific basins , a tropical cyclone with wind speeds of over 65 kn ( 75 mph ; 120 ) is called a hurricane , while it is called a typhoon or a severe cyclonic storm within the Western Pacific or North Indian Oceans .
+Within the Southern Hemisphere , it is either called a hurricane , tropical cyclone or a severe tropical cyclone , depending on if it is located within the South Atlantic , Indian Ocean , Australian region or the South Pacific Ocean .
+=== Identification codes ===
+Tropical cyclones that develop around the world are assigned an identification code consisting of a number and suffix letter by the warning centers that monitor them .
+These codes start at 01 every year and are assigned in order to systems , which have the potential to develop further , cause significant impact to life and property or when the warning centers start to write advisories on the system .
+=== Naming ===
+The practice of using names to identify tropical cyclones goes back many years , with systems named after places or things they hit before the formal start of naming .
+The system currently used provides positive identification of severe weather systems in a brief form , that is readily understood and recognized by the public .
+The credit for the first usage of personal names for weather systems is generally given to the Queensland Government Meteorologist Clement Wragge who named systems between 1887 and 1907 .
+This system of naming weather systems subsequently fell into disuse for several years after Wragge retired , until it was revived in the latter part of World War II for the Western Pacific .
+Formal naming schemes have subsequently been introduced for the North and South Atlantic , Eastern , Central , Western and Southern Pacific basins as well as the Australian region and Indian present , tropical cyclones are officially named by one of eleven meteorological services and retain their names throughout their lifetimes to provide ease of communication between forecasters and the general public regarding forecasts , watches , and warnings .
+Since the systems can last a week or longer and more than one can be occurring in the same basin at the same time , the names are thought to reduce the confusion about what storm is being described .
+Names are assigned in order from predetermined lists with one , three , or sustained wind speeds of more than 65 ( 40 mph ) depending on which basin it originates .
+However , standards vary from basin to basin with some tropical depressions named in the Western Pacific , while tropical cyclones have to have a significant amount of winds occurring around the center before they are named within the Southern Hemisphere .
+The names of significant tropical cyclones in the North Atlantic Ocean , Pacific Ocean , and Australian region are retired from the naming lists and replaced with another name .
+== Notable tropical cyclones ==
+Tropical cyclones that cause extreme destruction are rare , although when they occur , they can cause great amounts of damage or thousands of fatalities .
+The 1970 Bhola cyclone is considered to be the deadliest tropical cyclone on record , which killed around people , after striking the densely populated Ganges Delta region of Bangladesh on November 13 , 1970 .
+Its powerful storm surge was responsible for the high death toll .
+The North Indian cyclone basin has historically been the deadliest basin .
+Elsewhere , Typhoon Nina killed nearly in China in 1975 due to a flood that caused 62 dams including the Banqiao Dam to fail .
+The Great Hurricane of 1780 is the deadliest North Atlantic hurricane on record , killing about people in the Lesser Antilles .
+A tropical cyclone does not need to be particularly strong to cause memorable damage , primarily if the deaths are from rainfall or mudslides .
+Tropical Storm Thelma in November 1991 killed thousands in the Philippines , although the strongest typhoon to ever make landfall on record was Typhoon Haiyan in November 2013 , causing widespread devastation in Eastern Visayas , and killing at least people in the Philippines alone .
+In 1982 , the unnamed tropical depression that eventually became Hurricane Paul killed around people in Central Harvey and Hurricane Katrina are estimated to be the costliest tropical cyclones to impact the United States mainland , each causing damage estimated at 125 billion .
+Harvey killed at least 90 people in August 2017 after making landfall in Texas as a Category 4 hurricane .
+Hurricane Katrina is estimated as the tropical cyclone worldwide , causing billion in property damage ( 2008 USD ) alone , with overall damage estimates exceeding 100 billion ( 2005 USD ) .
+Katrina killed at least people after striking Louisiana and Mississippi as a major hurricane in August 2005 .
+Hurricane Maria is the third most destructive tropical cyclone in history , with damage totaling billion ( 2017 USD ) , and with damage costs at billion ( 2012 USD ) , Hurricane Sandy is the fourth most destructive tropical cyclone in history .
+The Galveston Hurricane of 1900 is the deadliest natural disaster in the United States , killing an estimated to people in Galveston , Texas .
+Hurricane Mitch caused more than fatalities in Central America , making it the second deadliest Atlantic hurricane in history .
+Hurricane Iniki in 1992 was the most powerful storm to strike Hawaii in recorded history , hitting Kauai as a Category 4 hurricane , killing six people , and causing 3 billion in damage .
+Other destructive Eastern Pacific hurricanes include Pauline and Kenna , both causing severe damage after striking Mexico as major hurricanes .
+In March 2004 , Cyclone Gafilo struck northeastern Madagascar as a powerful cyclone , killing 74 , affecting more than and becoming the worst cyclone to affect the nation for more than 20 years .
+The most intense storm on record is Typhoon Tip in the northwestern Pacific Ocean in 1979 , which reached a minimum pressure of 870 hectopascals ( inHg ) and maximum sustained wind speeds of 165 knots ( 85 ) or 190 miles per hour ( 310 ) .
+The highest maximum sustained wind speed ever recorded was 185 knots ( 95 ) or 215 miles per hour ( 346 ) in Hurricane Patricia in most intense cyclone ever recorded in the Western Hemisphere .
+Typhoon Nancy in 1961 also had recorded wind speeds of 185 knots ( 95 ) or 215 miles per hour ( 346 ) , but recent research indicates that wind speeds from the 1940s to the 1960s were gauged too high , and thus it is no longer considered the storm with the highest wind speed on record .
+Likewise , a gust caused by Typhoon Paka on Guam in late 1997 was recorded at 205 knots ( 105 ) or 235 miles per hour ( 378 ) .
+Had it been confirmed , it would be the strongest wind ever recorded on the Earth surface , but the reading had to be discarded since the anemometer was damaged by the storm .
+The World Meteorological Organization established Barrow Island ( Queensland ) as the location of the highest related wind gust at 408 kilometres per hour ( 254 mph ) on April 10 , 1996 , during Severe Tropical Cyclone addition to being the most intense tropical cyclone on record based on pressure , Tip is the largest cyclone on record , with tropical winds kilometres ( mi ) in diameter .
+The smallest storm on record , Tropical Storm Marco , formed during October 2008 and made landfall in Veracruz .
+Marco generated tropical winds only 37 kilometres ( 23 mi ) in John is the tropical cyclone on record , lasting 31 days in 1994 .
+Before the advent of satellite imagery in 1961 , however , many tropical cyclones were underestimated in their durations .
+John is also the tropical cyclone in the Northern Hemisphere on record , with a path of mi ( km ) .
+Cyclone Rewa of the South Pacific and Australian region cyclone seasons had one of the longest tracks observed within the Southern Hemisphere , traveling a distance of over mi ( km ) during December 1993 and January 1994 .
+== activity trends ==
+While the number of storms in the Atlantic has increased since 1995 , there is no obvious global trend ; the annual number of tropical cyclones worldwide remains about 87 10 ( Between 77 and 97 tropical cyclones annually ) .
+However , the ability of climatologists to make data analysis in certain basins is limited by the lack of reliable historical data in some basins , primarily in the Southern Hemisphere , while noting that a significant downward trend in tropical cyclone numbers has been identified for the region near Australia ( based on high quality data and accounting for the influence of the El Oscillation ) .
+In spite of that , there is some evidence that the intensity of hurricanes is increasing .
+Kerry Emanuel stated , Records of hurricane activity worldwide show an upswing of both the maximum wind speed in and the duration of hurricanes .
+The energy released by the average hurricane ( again considering all hurricanes worldwide ) seems to have increased by around 70 in the past 30 years or so , corresponding to about a 15 increase in the maximum wind speed and a 60 increase in storm lifetime .
+Often in part because of the threat of hurricanes , many coastal regions had sparse population between major ports until the advent of automobile tourism ; therefore , the most severe portions of hurricanes striking the coast may have gone unmeasured in some instances .
+The combined effects of ship destruction and remote landfall severely limit the number of intense hurricanes in the official record before the era of hurricane reconnaissance aircraft and satellite meteorology .
+Although the record shows a distinct increase in the number and strength of intense hurricanes , therefore , experts regard the early data as number and strength of Atlantic hurricanes may undergo a year cycle , also known as the Atlantic Multidecadal Oscillation .
+Nyberg et al .
+reconstructed Atlantic major hurricane activity back to the early 18th century and found five periods averaging major hurricanes per year and lasting years , and six other averaging major hurricanes per year and lasting years .
+These periods are associated with the Atlantic multidecadal oscillation .
+Throughout , a decadal oscillation related to solar irradiance was responsible for the number of major hurricanes by per more common since 1995 , few hurricane seasons occurred during .
+Destructive hurricanes struck frequently from 1926 to 1960 , including many major New England hurricanes .
+Atlantic tropical storms formed in 1933 , a record only recently exceeded in 2005 , which saw 28 storms .
+Tropical hurricanes occurred infrequently during the seasons of ; however , many intense storms formed during .
+During the 1887 season , 19 tropical storms formed , of which a record 4 occurred after November 1 and 11 strengthened into hurricanes .
+Few hurricanes occurred in the 1840s to 1860s ; however , many struck in the early 19th century , including an 1821 storm that made a direct hit on New York City .
+Some historical weather experts say these storms may have been as high as Category 4 in active hurricane seasons predated satellite coverage of the Atlantic basin .
+Before the satellite era began in 1960 , tropical storms or hurricanes went undetected unless a reconnaissance aircraft encountered one , a ship reported a voyage through the storm , or a storm hit land in a populated records based on paleotempestological research have revealed that major hurricane activity along the Gulf of Mexico coast varies on timescales of centuries to millennia .
+Few major hurricanes struck the Gulf coast during BC and again during the most recent millennium .
+These quiescent intervals were separated by a hyperactive period during 1400 BC and 1000 AD , when the Gulf coast was struck frequently by catastrophic hurricanes and their landfall probabilities increased by times .
+This variability has been attributed to shifts in the position of the Azores High , which may also be linked to changes in the strength of the North Atlantic to the Azores High hypothesis , an pattern is expected to exist between the Gulf of Mexico coast and the Atlantic coast .
+During the quiescent periods , a more northeasterly position of the Azores High would result in more hurricanes being steered towards the Atlantic coast .
+During the hyperactive period , more hurricanes were steered towards the Gulf coast as the Azores High was shifted to a more southwesterly position near the Caribbean .
+Such a displacement of the Azores High is consistent with paleoclimatic evidence that shows an abrupt onset of a drier climate in Haiti around 3200 14C years BP , and a change towards more humid conditions in the Great Plains during the as more moisture was pumped up the Mississippi Valley through the Gulf coast .
+Preliminary data from the northern Atlantic coast seem to support the Azores High hypothesis .
+A proxy record from a coastal lake in Cape Cod suggests that hurricane activity increased significantly during the past years , just as the Gulf coast was amid a quiescent period of the last millennium .
+=== Climate change ===
+Climate change can affect tropical cyclones in a variety of ways : an intensification of rainfall and wind speed , a decrease in overall frequency , an increase in frequency of very intense storms and a poleward extension of where the cyclones reach maximum intensity are among the possible consequences of climate cyclones use warm , moist air as their fuel .
+As climate change is warming ocean temperatures , there is potentially more of this fuel available .
+Between 1979 and 2017 , there was a global increase in the proportion of tropical cyclones of Category 3 and higher on the scale .
+The trend was most clear in the North Atlantic and in the Southern Indian Ocean .
+In the North Pacific , tropical cyclones have been moving poleward into colder waters and there was no increase in intensity over this period .
+With 2 warming , a greater percentage of tropical cyclones are expected to reach Category 4 and 5 strength .
+A 2019 study indicates that climate change has been driving the observed trend of rapid intensification of tropical cyclones in the Atlantic basin .
+Rapidly intensifying cyclones are hard to forecast and therefore pose additional risk to coastal is currently no consensus on how climate change will affect the overall frequency of tropical cyclones .
+A majority of climate models show a decreased frequency in future projections .
+For instance , a 2020 paper comparing nine climate models found robust decreases in frequency in the Southern Indian Ocean and the Southern Hemisphere more generally , while finding mixed signals for Northern Hemisphere tropical cyclones .
+Observations have shown little change in the overall frequency of tropical cyclones has been a poleward expansion of the latitude at which the maximum intensity of tropical cyclones occurs , which may be associated with climate change .
+In the North Pacific , there may also have been an eastward expansion .
+Between 1949 and 2016 , there was a slowdown in tropical cyclone translation speeds .
+It is unclear still to what extent this can be attributed to climate change : climate models do not all show this air can hold more water vapor : the theoretical maximum water vapor content is given by the relation , which yields increase in water vapor in the atmosphere per 1 warming .
+All models that were assessed in a 2019 review paper show a future increase of rainfall rates .
+Additional sea level rise will increase storm surge levels .
+It is plausible that extreme wind waves see an increase as a consequence of changes in tropical cyclones , further exacerbating storm surge dangers to coastal communities .
+A 2017 study looked at compounding effects from floods , storm surge , and terrestrial flooding ( rivers ) , and projects an increase due to global warming .
+== Related cyclone types ==
+In addition to tropical cyclones , there are two other classes of cyclones within the spectrum of cyclone types .
+These kinds of cyclones , known as extratropical cyclones and subtropical cyclones , can be stages a tropical cyclone passes through during its formation or dissipation .
+An extratropical cyclone is a storm that derives energy from horizontal temperature differences , which are typical in higher latitudes .
+A tropical cyclone can become extratropical as it moves toward higher latitudes if its energy source changes from heat released by condensation to differences in temperature between air masses ; although not as frequently , an extratropical cyclone can transform into a subtropical storm , and from there into a tropical cyclone .
+From space , extratropical storms have a characteristic cloud pattern .
+Extratropical cyclones can also be dangerous when their centers cause powerful winds and high subtropical cyclone is a weather system that has some characteristics of a tropical cyclone and some characteristics of an extratropical cyclone .
+They can form in a wide band of latitudes , from the equator to .
+Although subtropical storms rarely have winds , they may become tropical in nature as their cores warm .
+From an operational standpoint , a tropical cyclone is usually not considered to become subtropical during its extratropical transition .
+== Popular culture ==
+In popular culture , tropical cyclones have made several appearances in different types of media , including films , books , television , music , and electronic games .
+These media often portray tropical cyclones that are either entirely fictional or based on real events .
+For example , George Rippey Stewart Storm , a published in 1941 , is thought to have influenced meteorologists on their decision to assign female names to Pacific tropical cyclones .
+Another example is the hurricane in The Perfect Storm , which describes the sinking of the Andrea Gail by the 1991 Perfect Storm .
+Hurricanes have been featured in parts of the plots of series such as The Simpsons , Invasion , Family Guy , Seinfeld , Dawson Creek , Burn Notice and CSI : Miami .
+The 2004 film The Day After Tomorrow includes several mentions of actual tropical cyclones and features fantastical , albeit , Arctic storms .
+== See also ==
+=== Forecasting and preparation ===
+Catastrophe modeling Hurricane engineering Hurricane preparedness building Tropical cyclone watches and warnings === Tropical cyclone seasons ===
+== References ==
+== External links ==
+=== Warning centers ===
+US National Hurricane Center North Atlantic , Eastern Pacific Central Pacific Hurricane Center Central Pacific Japan Meteorological Agency Western Pacific India Meteorological Department Indian Ocean La Reunion South Indian Ocean from to Indonesian Meteorological Department South Indian Ocean from to , north of Australian Bureau of Meteorology South Indian Ocean and South Pacific Ocean from to Papua New Guinea National Weather Service South Pacific east of , north of Fiji Meteorological Service South Pacific west of , north of S Meteorological Service of New Zealand Limited South Pacific west of , south of

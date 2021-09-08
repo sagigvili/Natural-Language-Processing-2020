@@ -1,0 +1,243 @@
+An oak is a tree or shrub in the genus Quercus ( ; Latin oak tree ) of the beech family , Fagaceae .
+There are approximately 500 extant species of oaks .
+The common name oak also appears in the names of species in related genera , notably Lithocarpus ( stone oaks ) , as well as in those of unrelated species such as Grevillea robusta ( silky oaks ) and the Casuarinaceae ( she-oaks ) .
+The genus Quercus is native to the Northern Hemisphere , and includes deciduous and evergreen species extending from cool temperate to tropical latitudes in the Americas , Asia , Europe , and North Africa .
+North America contains the largest number of oak species , with approximately 90 occurring in the United States , while Mexico has 160 species of which 109 are endemic .
+The second greatest center of oak diversity is China , which contains approximately 100 species .
+Oaks have spirally arranged leaves , with lobate margins in many species ; some have serrated leaves or entire leaves with smooth margins .
+Many deciduous species are marcescent , not dropping dead leaves until spring .
+In spring , a single oak tree produces both male flowers ( in the form of catkins ) and small female flowers , meaning that the trees are monoecious .
+The fruit is a nut called an acorn or oak nut borne in a cup-like structure known as a cupule ; each acorn contains one seed ( rarely two or three ) and takes 6–18 months to mature , depending on their species .
+The acorns and leaves contain tannic acid , which helps to guard from fungi and insects .
+The live oaks are distinguished for being evergreen , but are not actually a distinct group and instead are dispersed across the genus .
+== Classification ==
+The most recent classification of Quercus divides the genus into two subgenera and eight sections .
+These divisions support the evolutionary diversification of oaks among two distinct clades : the Old World clade , including oaks that diversified mainly in Eurasia ; and the New World clade , for oaks that diversified mainly in the Americas .
+=== Subgenus Quercus ===
+Sect .
+Quercus ( synonyms Lepidobalanus and Leucobalanus ) , the white oaks of Europe , Asia and North America .
+Styles are short ; acorns mature in 6 months and taste sweet or slightly bitter ; the inside of an acorn shell is hairless .
+The leaves mostly lack a bristle on their lobe tips , which are usually rounded .
+The type species is Quercus robur .
+Sect .
+Protobalanus , the canyon live oak and its relatives , in the southwestern United States and northwest Mexico .
+Styles short , acorns mature in 18 months and taste very bitter .
+The inside of the acorn shell appears woolly .
+Leaves typically have sharp lobe tips , with bristles at the lobe tip .
+Sect .
+Ponticae , a disjunct including just two species .
+Styles short , acorns maturing in 12 months .
+Leaves with large stipules , high secondary venation , highly toothed .
+Sect .
+Virentes , the southern live oaks of the Americas .
+Styles short , acorns maturing in 12 months .
+Leaves evergreen or subevergreen .
+Sect .
+Lobatae ( synonym Erythrobalanus ) , the red oaks of North America , Central America and northern South America .
+Styles long ; acorns mature in 18 months and taste very bitter .
+The inside of the acorn shell appears woolly .
+The actual nut is encased in a thin , clinging , papery skin .
+Leaves typically have sharp lobe tips , with spiny bristles at the lobe .
+=== Subgenus Cerris ===
+Sect .
+Cyclobalanopsis , the ring-cupped oaks of eastern and southeastern Asia .
+Evergreen trees growing 10–40 m ( 33–131 ft ) tall .
+They are distinct from subgenus Quercus in that they have acorns with distinctive cups bearing concrescent rings of scales ; they commonly also have densely clustered acorns , though this does not apply to all of the species.Species of Cyclobalanopsis are common in the evergreen subtropical laurel forests which extend from southern Japan , southern Korea , and Taiwan across southern China and northern Indochina to the eastern Himalayas , in association with trees of genus Castanopsis and the laurel family ( Lauraceae ) .
+Sect .
+Cerris , the Turkey oak and its relatives of Europe and Asia .
+Styles long ; acorns mature in 18 months and taste very bitter .
+The inside of the acorn 's shell is hairless .
+Its leaves typically have sharp lobe tips , with bristles at the lobe tip .
+Sect .
+Ilex , the Ilex oak and its relatives of Eurasia and northern Africa .
+Styles medium-long ; acorns mature in 12–24 months , appearing hairy on the inside .
+Leaves evergreen , with bristle-like extensions on the teeth .
+=== Phylogenetics ===
+The advent of molecular techniques for phylogenetic analysis transformed understanding of oak relationships , initially by uncovering molecular support for the diphyletic division of Quercus into Old World and New World clades .
+These techniques have proved highly useful in resolving fine-scale relationships among 2–5 oak species , particularly groups known to hybridize , but until recently the larger emphasis on this narrow approach prevented systematists from making large-scale determinations about oak history .
+As the capacity for sampling across wider swaths of oak species rose , so has resolution at the section and species level across the oak tree.Further advances in oak systematics are expected to arise from next-generation sequencing techniques , including a recent project to sequence the entire genome of Quercus robur ( the pedunculate oak ) .
+The recent completion of that genome has uncovered an array of mutations that may underlie the evolution of longevity and disease resistance in oaks .
+In addition , the generation of RAD-seq loci for hundreds of oak species has allowed for the construction of the most highly detailed oak phylogeny to date , although the high signal of introgression across the tree poses difficulties for deriving an unambiguous , unitary history of oaks .
+=== Historical note on Linnaean species ===
+Linnaeus described only five species of oak from eastern North America , based on general leaf form .
+These were white oak , Quercus alba ; chestnut oak , montana ; red oak , rubra ; willow oak phellos ; and water oak , nigra .
+Because he was dealing with confusing leaf forms , the montana and rubra specimens actually included mixed foliage of more than one species .
+== Evolution ==
+Records of Quercus have been reported from Late Cretaceous deposits in North America and East Asia , however these are not considered definitive .
+In a survey of the fossil record it was concluded that pre-Paleogene , and perhaps pre-Eocene occurrences of Quercus macroremains are generally represented by poorly preserved fossils that lack critical features needed for certain identification and need to be treated with caution .
+The oldest unequivocal records of Quercus date to the Eocene , around 45 Ma .
+== Hybridization ==
+Interspecific hybridization is quite common among oaks , but usually between species within the same section only , and most common in the white oak group .
+White oaks are unable to discriminate against pollination by other species in the same section .
+Because they are wind pollinated and they have weak internal barriers to hybridization , hybridization produces functional seeds and fertile hybrid offspring .
+Ecological stresses , especially near habitat margins , can also cause a breakdown of mate recognition as well as a reduction of male function ( pollen quantity and quality ) in one parent species.Frequent hybridization among oaks has consequences for oak populations around the world ; most notably , hybridization has produced large populations of hybrids with copious amounts of introgression , and the evolution of new species .
+Frequent hybridization and high levels of introgression have caused different species in the same populations to share up to 50 of their genetic information .
+Having high rates of hybridization and introgression produces genetic data that often does not differentiate between two clearly morphologically distinct species , but instead differentiates populations .
+Research suggests that the maintenance of particular loci for adaptation to ecological niches might explain the retention of species identity despite significant gene flow.The Fagaceae , or beech family , to which the oaks belong , is a very slow evolving clade compared to other angiosperms , and the patterns of hybridization and introgression in Quercus pose a great challenge to the concept of a species since a species is often defined as a group of actually or potentially interbreeding populations which are reproductively isolated from other such groups .
+By this definition , many species of Quercus would be lumped together according to their geographic and ecological habitat , despite clear distinctions in morphology and , to a large extent , genetic data .
+== Uses ==
+Oak wood has a density of about 0.75 g/cm3 ( 0.43 oz/cu in ) creating great strength and hardness .
+The wood is very resistant to insect and fungal attack because of its high tannin content .
+It also has very appealing grain markings , particularly when quartersawn .
+Oak planking was common on high status Viking longships in the 9th and 10th centuries .
+The wood was hewn from green logs , by axe and wedge , to produce radial planks , similar to quarter-sawn timber .
+Wide , quarter-sawn boards of oak have been prized since the Middle Ages for use in interior panelling of prestigious buildings such as the debating chamber of the House of Commons in London and in the construction of fine furniture .
+Oak wood , from Quercus robur and Quercus petraea , was used in Europe for the construction of ships , especially naval men of war , until the 19th century , and was the principal timber used in the construction of European timber-framed buildings .
+Today oak wood is still commonly used for furniture making and flooring , timber frame buildings , and veneer production .
+Barrels for aging wines , sherry , and spirits such as brandy , Irish whiskey , Scotch whisky and Bourbon whiskey , are made from European and American oak , with single barrel whiskey fetching a premium .
+The use of oak in wine can add gustatory dimensions depending on the type of oak .
+Oak barrels , which may be charred before use , contribute to the colour , taste , and aroma of their potable contents , imparting a desirable oaky vanillin flavour .
+A dilemma for wine producers is to choose between French and American oakwoods .
+French oaks ( Quercus robur , petraea ) give greater refinement , and are chosen for the best , most expensive wines ; while American oak contributes greater texture and resistance to ageing , but produces more powerful bouquet .
+Oak wood chips are also used for smoking fish , meat , cheeses , and other foods .
+Japanese oak is used for professional drums made by Yamaha Drums .
+The higher density of oak gives the drum a brighter and louder tone compared to traditional materials such as maple and birch .
+In hill states of India , besides fuelwood and timber , the locals use oak wood for agricultural implements .
+The leaves are used as fodder during lean periods and as for livestock .
+The bark of the cork oak is used to produce wine stoppers ( corks ) .
+This species grows around the Mediterranean Sea , with Portugal , Spain , Algeria , and Morocco producing most of the world 's supply .
+Of the North American red oaks , the northern red oak is one of the most prized for lumber , and is marketed as red oak regardless of species .
+This wood has open capillaries , and air blown through an end grain piece 10 inches long can send bubbles out the other end into a glass of water .
+The openings give fungus easy access when the finish deteriorates , and natural red oak rots easily outdoors .
+However , if the wood is treated with a preservative compound , the capillaries absorb it deeply , and treated red oak will resist rot better than cured white oak heartwood , which has a closed cell structure .
+Shumard oak , a member of the red oak subgenus , provides timber described as mechanically superior to northern red oak .
+Cherrybark oak is another type of red oak which provides excellent timber .
+The standard lumber tree of the white oak group all marketed as white oak is the Quercus alba .
+White oak is often used to make wine barrels .
+The wood of the deciduous pedunculate oak and sessile oak accounts for most European oak production , but evergreen species such as Holm oak and cork oak also produce valuable timber .
+The bark of the white oak is dried and used in medical preparations .
+Oak bark is also rich in tannin , and is used by tanners for tanning leather .
+Acorns are used for making flour or roasted for acorn coffee .
+Oak galls were used for centuries as a main ingredient in iron gall ink for manuscripts , harvested at a specific time of year .
+In Korea , oak bark is used to make shingles for traditional roof construction .
+== Biodiversity and ecology ==
+Oaks are keystone species in a wide range of habitats from Mediterranean semi-desert to subtropical rainforest .
+For example , oak trees are important components of hardwood forests , and certain species are particularly known to grow in associations with members of the Ericaceae in oak–heath forests .
+A number of kinds of truffles , including the two well known varieties , the black Périgord truffle and the white Piedmont truffle , have symbiotic relationships with oak trees .
+Similarly many other mushrooms such as Ramaria flavosaponaria also associate with oaks .
+The European pied flycatcher is an example of an animal species that often depends upon oak trees .
+Many species of oaks are under threat of extinction in the wild , largely due to land use changes , livestock grazing and unsustainable harvesting .
+For example , over the past 200 years , large areas of oak forest in the highlands of Mexico , Central America and the northern Andes have been cleared for coffee plantations and cattle ranching .
+There is a continuing threat to these forests from exploitation for timber , fuelwood and charcoal .
+In the US , entire oak ecosystems have declined due to a combination of factors still imperfectly known , but thought to include fire suppression , increased consumption of acorns by growing mammal populations , herbivory of seedlings , and introduced pests .
+In a recent survey , 78 wild oak species have been identified as being in danger of extinction , from a global total of over 500 species .
+The proportion under threat may be much higher in reality , as there is insufficient information about over 300 species , making it near impossible to form any judgement of their status .
+In the Himalayan region of India , oak forests are being invaded by pine forests due to the increase in temperature .
+The associated species of pine forest may cross frontiers and become new elements of the oak forests.In eastern North America , rare species of oak trees include scarlet oak ( Quercus coccinea ) , chinkapin oak ( Quercus muehlenbergii ) , and post oak ( Quercus stellata ) mature trees shed varying numbers of acorns annually .
+Scientists suggest that shedding excess numbers allows the oaks to satiate nut gathering species which improves the chances of germination .
+Every four to ten years , certain oak populations will synchronize to produce almost no acorns at all , only to rain them down excessively the following year , known as a mast year .
+The year preceding the mast year is thought to starve off the mammal populations feeding on the supply , thereby increasing the effectiveness of the overproduction in the mast year that follows .
+This is necessary to the survival of any given oak species , as only one in 10,000 acorns results in an eventual tree .
+== Diseases and pests ==
+Sudden oak death ( Phytophthora ramorum ) is a water mould that can kill oaks within just a few weeks .
+Oak wilt , caused by the fungus Ceratocystis fagacearum ( a fungus closely related to Dutch elm disease ) , is also a lethal disease of some oaks , particularly the red oaks ( the white oaks can be infected but generally live longer ) .
+Other dangers include wood-boring beetles , as well as root rot in older trees which may not be apparent on the outside , often being discovered only when the trees come down in a strong gale .
+Oak apples are galls on oaks made by the gall wasp .
+The female kermes scale causes galls to grow on kermes oak .
+Oaks are used as food plants by the larvae of Lepidoptera ( butterfly and moth ) species such as the gypsy moth , Lymantria dispar , which can defoliate oak and other broadleaved tree species in North America.A considerable number of galls are found on oak leaves , buds , flowers , roots , etc .
+Examples are oak artichoke gall , oak marble gall , oak apple gall , knopper gall , and spangle gall .
+A number of species of fungus cause powdery mildew on oak species .
+In Europe the species Erysiphe alphitoides is the most common cause.A new and yet little understood disease of mature oaks , acute oak decline , has been reported in parts of the UK since 2009.The oak processionary moth ( Thaumetopoea processionea ) has become a serious threat in the UK since 2006 .
+The caterpillars of this species defoliate the trees , and are hazardous to human health ; their bodies are covered with poisonous hairs which can cause rashes and respiratory problems.In California , oaks are affected by the fungal disease foamy bark canker .
+The eastern grey squirrel ( Sciurus carolinensis ) is an invasive species across North America and Europe where they are known to strip bark off of a variety of large trees , including oaks .
+Bark stripping can result in the death of the leading shoot and decreased crown size .
+== Toxicity ==
+The leaves and acorns of the oak tree are poisonous in large amounts to livestock including cattle , horses , sheep , and goats due to the toxin tannic acid , causing kidney damage and gastroenteritis .
+Symptoms of poisoning include lack of appetite , depression , constipation , diarrhea ( which may contain blood ) , blood in urine , and colic .
+The exception is the domestic pig , which may be fed entirely on acorns in the right conditions , and has traditionally been pastured in oak woodlands ( such as the Spanish dehesa and the English system of pannage ) .
+Acorns are also edible to humans , after leaching of the tannins .
+== Cultural significance ==
+=== National symbol ===
+The oak is a common symbol of strength and endurance and has been chosen as the national tree of many countries .
+In England , oaks have been a national symbol since at least the sixteenth century , often used by Shakespeare to confer heritage and power .
+In England today they remain a symbol of the nation 's history , traditions , and the beauty of its countryside .
+Already an ancient Germanic symbol ( in the form of the Donar Oak , for instance ) , certainly since the early nineteenth century , it stands for the nation of Germany and oak branches are thus displayed on some German coins , both of the former Deutsche Mark and the current euro currency .
+In 2004 the Arbor Day Foundation held a vote for the official National Tree of the United States of America .
+In November 2004 , the United States Congress passed legislation designating the oak as America 's National Tree.Other countries have also designated the oak as their national tree including Bulgaria , Cyprus ( golden oak ) , Estonia , France , Germany , Moldova , Jordan , Latvia , Lithuania , Poland , Romania , Serbia , and Wales .
+==== Oaks as regional and state symbols ====
+The oak is the emblem of County Londonderry in Northern Ireland , as a vast amount of the county was covered in forests of the tree until relatively recently .
+The name of the county comes from the city of Derry , which originally in Irish was known as Doire meaning oak .
+The Irish County Kildare derives its name from the town of Kildare which originally in Irish was Cill Dara meaning the Church of the Oak or Oak Church .
+Iowa designated the oak as its official state tree in 1961 ; and the white oak is the state tree of Connecticut , Illinois and Maryland .
+The northern red oak is the provincial tree of Prince Edward Island , as well as the state tree of New Jersey .
+The live oak is the state tree of the US state of Georgia .
+The oak is a national symbol from the Basque Country , specially in the province of Biscay .
+The oak is a symbol of the East Bay of the San Francisco Bay Area ; the coat-of-arms and flag of Oakland , California feature the oak and the logo of the East Bay Regional Park District is an oak leaf .
+The coats-of-arms of Vest-Agder , Norway , and Blekinge , Sweden , feature oak trees .
+The coat-of-arms of the municipality Eigersund , Norway features an oak leaf .
+Oak leaves are traditionally an important part of German Army regalia .
+The Nazi party used the traditional German eagle , standing atop of a swastika inside a wreath of oak leaves .
+It is also known as the Iron Eagle .
+During the Third Reich of Nazi Germany , oak leaves were used for military valor decoration on the Knights Cross of the Iron Cross .
+They also symbolize rank in the United States Armed Forces .
+A gold oak leaf indicates an O-4 ( major or lieutenant commander ) , whereas a silver oak leaf indicates an O-5 ( lieutenant colonel or commander ) .
+Arrangements of oak leaves , acorns and sprigs indicate different branches of the United States Navy staff corps officers .
+Oak leaves are embroidered onto the covers ( hats ) worn by field grade officers and flag officers in the United States armed services .
+If a member of the United States Army or Air Force earns multiple awards of the same medal , then instead of wearing a ribbon or medal for each award , he or she wears one metal representation of an oak leaf cluster attached to the appropriate ribbon for each subsequent award .
+==== Political use ====
+The oak tree is used as a symbol by a number of political parties .
+It is the symbol of Toryism ( on account of the Royal Oak ) and the Conservative Party in the United Kingdom , and formerly of the Progressive Democrats in Ireland and the Democrats of the Left in Italy .
+In the cultural arena , the oakleaf is the symbol of the National Trust ( UK ) , The Woodland Trust , and The Royal Oak Foundation .
+=== Religious ===
+The prehistoric Indo-European tribes worshiped the oak and connected it with a thunder or lightning god , and this tradition descended to many classical cultures .
+In Greek mythology , the oak is the tree sacred to Zeus , king of the gods .
+In Zeus 's oracle in Dodona , Epirus , the sacred oak was the centerpiece of the precinct , and the priests would divine the pronouncements of the god by interpreting the rustling of the oak 's leaves.In Celtic polytheism , the name of the oak tree was part of the Proto-Celtic word for 'druid ' : derwo-weyd- druwid- ; however , Proto-Celtic derwo- ( and dru- ) can also be adjectives for 'strong ' and 'firm ' , so Ranko Matasovic interprets that druwid- may mean 'strong knowledge ' .
+As in other Indo-European faiths , Taranis , being a thunder god , was associated with the oak tree .
+Tree and drus may also be cognate with Druid , the Celtic priest to whom the oak was sacred .
+There has even been a study that shows that oaks are more likely to be struck by lightning than any other tree of the same height.In Norse mythology , the oak was sacred to the thunder god , Thor .
+Thor 's Oak was a sacred tree of the Germanic Chatti tribe.In Baltic and Slavic mythology , the oak was the sacred tree of Latvian god Pērkons , Lithuanian Perkūnas , Prussian Perkūns and Slavic Perun , the god of thunder and one of the most important deities .
+The oak also appears in the Hebrew tradition .
+In the Bible , the oak tree at Shechem is the site where Jacob buries the foreign gods of his people ( Gen. 35:4 ) .
+Also , Joshua erects a stone under an oak tree as the first covenant of the Lord ( Josh .
+24.25–7 ) .
+In Isaiah 61 , the prophet refers to the Israelites as Oaks of Righteousness .
+Absalom 's long hair ( 2 Samuel 18:9 ) gets caught in an oak tree , and allows Joab to kill him .
+Vereration of the oak survives in Serbian Orthodox Church tradition .
+Christmas celebrations include the badnjak , a branch taken from a young and straight oak ceremonially felled early on Christmas Eve morning , similar to a yule log .
+In recent times , only the branches are collected , brought home , and ceremoniously thrown into a stove or church bonfire .
+In another tradition , a zapis ( lit .
+inscription ) is an old , isolated oak on a hilltop or promontory , often inscribed with a cross by a parish priest .
+Reverence for zapisi probably originated in pre-Christian times , and they long remained places of public gathering and even of Christian worship where churches were n't available .
+For example , in 1815 , at a zapis assembly in Takovo , knez Miloš Obrenović declared the start of the Second Serbian Uprising .
+Even in modern times , cutting down zapis oaks can result in public outcry , even for projects like road building.In some traditions of Wicca , the Oak King is one of the two faces of the Sun God .
+He is born on Yule and rules from Ostara to Mabon .
+=== Historical ===
+Several oak trees , such as the Royal Oak in Britain and the Charter Oak in the United States , are of great historical or cultural importance .
+The Proscribed Royalist , 1651 , a famous painting by John Everett Millais , depicted a Royalist fleeing from Cromwell 's forces and hidden in an oak .
+Millais painted the picture in Hayes , Kent , from a local oak tree that became known as the Millais Oak.Approximately 50 km west of Toronto , Canada is the town of Oakville , Ontario , famous for its history as a shipbuilding port on Lake Ontario.The city of Raleigh , N.C. , is known as The City of Oaks .
+The Jurupa Oak tree a clonal colony of Quercus palmeri or Palmer 's oak found in Riverside County , California is an estimated 13,000 years old.Large groups of very old oak trees are rare .
+One vernerable group found in Poland , is about 480 years old , as assessed by dendrochronology.In the Roman Republic , a crown of oak leaves was given to those who had saved the life of a citizen in battle ; it was called the civic oak crown .
+=== Famous oak trees ===
+Category : Individual oak trees The Emancipation Oak is designated one of the 10 Great Trees of the World by the National Geographic Society and is part of the National Historic Landmark district of Hampton University in Virginia .
+The Ivenack Oak which is one of the largest trees in Europe is located in Mecklenburg-Vorpommern , Germany , and is approximately 800 years old .
+The Bowthorpe Oak , located in Bourne , Lincolnshire , is thought to be 1,000 years old .
+It was featured in the Guinness Book of World Records and was filmed for a TV documentary for its astonishing longevity .
+The Minchenden ( or Chandos ) Oak , in Southgate , London , is said to be the largest oak tree in England ( already 8.2 m or 27 ft in girth in the nineteenth century ) , and is perhaps 800 years old .
+The Seven Sisters Oak is the largest certified southern live oak tree .
+Located in Mandeville , Louisiana , it is estimated to be up to 1,500 years old with a trunk that measures 11.6 m ( 38 ft ) .
+The Major Oak is an 800 to 1000-year-old tree located in Sherwood Forest , Nottinghamshire .
+According to folklore , it was used by Robin Hood for shelter .
+Friendship Oak is a 500-year-old southern live oak located in Long Beach , Mississippi .
+The Crouch Oak is believed to have originated in the 11th Century and is located in Addlestone , Surrey .
+It is an important symbol of the town with many local businesses adopting its name .
+It used to mark the boundary of Windsor Great Park .
+Legend says that Queen Elizabeth I stopped by it and had a picnic .
+The Angel Oak is a southern live oak located in Angel Oak Park on John 's Island near Charleston , South Carolina .
+The Angel Oak is estimated to be in excess of 400–500 years old , stands 20.3 m ( 66 1⁄2 ft ) tall , and measures 8.5 m ( 28 ft ) in circumference .
+The Kaiser 's Oak , located at the village of Gommecourt in Artois , France , named in honour of Kaiser Wilhelm II , symbolically marked from late 1914 to April 1917 the furthest point in the West of the German Imperial Army during World War One .
+The Wye Oak in Maryland was the United States ' largest white oak tree before it blew down in a storm in 2002 , at an estimated age of 460 years .
+The Bland Oak in Sydney , Australia , planted in the 1840s , was the largest tree in Australia until it was split in a storm early on New Year Day 1941 .
+The Treaty Oak in Austin , Texas , is a Texas live oak , and the last surviving member of the Council Oaks , a grove of 14 trees that served as a sacred meeting place for Comanche and Tonkawa tribes prior to European settlement of the area .
+== See also ==
+== References ==
+== Bibliography ==
+Byfield , Liz ( 1990 ) An Oak Tree , Collins book bus , London : Collins Educational , ISBN 0-00-313526-8 Philips , Roger .
+Trees of North America and Europe , Random House , Inc. , New York ISBN 0-394-50259-0 , 1979 .
+Logan , William B .
+( 2005 ) Oak : The Frame of Civilization , New York ; London : W.W. Norton , ISBN 0-393-04773-3 Paterson , R.T. ( 1993 ) Use of Trees by Livestock , 5 : Quercus , Chatham : Natural Resources Institute , ISBN 0-85954-365-X Royston , Angela ( 2000 ) Life Cycle of an Oak Tree , Heinemann first library , Oxford : Heinemann Library , ISBN 0-431-08391-6 Savage , Stephen ( 1994 ) Oak Tree , Observing nature series , Hove : Wayland , ISBN 0-7502-1196-2 Tansley , Arthur , Sir ( 1952 ) Oaks and Oak Woods , Field study books , London : Methuen .
+, Marek ( 1988 ) Dąb król polskich drzew ( Oak the king of the Polish trees ) , AURA ( A Monthly for the protection and shaping of human environment ) , 9 , 20–21 .
+== External links ==
+Flora of China Cyclobalanopsis Oak diseases Flora Europaea : Quercus Oaks from Bialowieza Forest Common Oaks of Florida Oaks of the world The Global Trees Campaign The Red List of Oaks and Global Survey of Threatened Quercus Latvia the land of oaks Eichhorn , Markus ( May 2010 ) .
+Oak A Very English Tree .
+Test Tube .
+Brady Haran for the University of Nottingham .
